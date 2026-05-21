@@ -2,24 +2,38 @@ import argparse
 import cv2
 import glob
 import json
-import moviepy.editor as mpy
+import numpy as np
 import os
 import subprocess
 import tempfile
 
 
+def _images_similar(a, b, threshold=300):
+    if a is None or b is None or a.shape != b.shape:
+        return False
+    return ((a.astype(float) - b.astype(float)) ** 2).mean() < threshold
+
+
 def extract_pdf(sequence, output_file):
     rgy = slice(sequence['crop'][1], sequence['crop'][1] + sequence['crop'][3])
     rgx = slice(sequence['crop'][0], sequence['crop'][0] + sequence['crop'][2])
-    
+
     sources = []
-    for _, el in enumerate(sequence['sequence']):
-        if el['type'] == 'slide' and el['title']:
-            im = cv2.imread(el['source'])
-            filename = el['source'][:-4] + '.cropped.png'
-            cv2.imwrite(filename, im[rgy, rgx])
-            if filename not in sources:
-                sources.append(filename)
+    prev_cropped = None
+    for el in sequence['sequence']:
+        if el['type'] != 'slide':
+            continue
+        im = cv2.imread(el['source'])
+        if im is None:
+            continue
+        cropped = im[rgy, rgx]
+        if _images_similar(cropped, prev_cropped):
+            continue
+        prev_cropped = cropped
+        filename = el['source'][:-4] + '.cropped.png'
+        cv2.imwrite(filename, cropped)
+        if filename not in sources:
+            sources.append(filename)
 
 
     with tempfile.NamedTemporaryFile(mode='w', delete=False) as f:
@@ -30,6 +44,7 @@ def extract_pdf(sequence, output_file):
 
     subprocess.run([
         "tesseract",
+        "--dpi", "300",
         f.name,
         output_file,
         "pdf"], shell=False)

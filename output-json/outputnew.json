@@ -1,0 +1,5540 @@
+{
+  "pip_location": [
+    217.93258426966287,
+    70.79775280898878,
+    25.988764044943817,
+    25.988764044943817
+  ],
+  "sequence": [
+    {
+      "type": "slide",
+      "start_time": "00:00:02",
+      "start_index": 0,
+      "end_time": "00:02:44",
+      "end_index": 81,
+      "offset": 40,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0041.png",
+      "title": "10:29 AM - Google"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:02:44",
+      "start_index": 81,
+      "end_time": "00:03:04",
+      "end_index": 91,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:03:04",
+      "start_index": 91,
+      "end_time": "00:03:14",
+      "end_index": 96,
+      "offset": 93,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0094.png",
+      "title": "Meeting Controls \u00bb"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:03:14",
+      "start_index": 96,
+      "end_time": "00:09:54",
+      "end_index": 296,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:09:54",
+      "start_index": 296,
+      "end_time": "00:10:04",
+      "end_index": 301,
+      "offset": 298,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0299.png",
+      "title": "x \u20ac Q Dennis Personal Room (@ Meeting info )"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:10:04",
+      "start_index": 301,
+      "end_time": "00:10:10",
+      "end_index": 304,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:10:10",
+      "start_index": 304,
+      "end_time": "00:10:16",
+      "end_index": 307,
+      "offset": 305,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0306.png",
+      "title": "Dennis Itkin's Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:10:16",
+      "start_index": 307,
+      "end_time": "00:10:20",
+      "end_index": 309,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:10:20",
+      "start_index": 309,
+      "end_time": "00:10:22",
+      "end_index": 310,
+      "offset": 309,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0310.png",
+      "title": "Dennis Itkin's Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:10:22",
+      "start_index": 310,
+      "end_time": "00:11:40",
+      "end_index": 349,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:11:40",
+      "start_index": 349,
+      "end_time": "00:11:42",
+      "end_index": 350,
+      "offset": 349,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0350.png",
+      "title": "Reinaldo"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:11:42",
+      "start_index": 350,
+      "end_time": "00:11:56",
+      "end_index": 357,
+      "offset": 353,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0354.png",
+      "title": "Q Dennis Personal Room Meeting Sean shared content +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:11:56",
+      "start_index": 357,
+      "end_time": "00:12:38",
+      "end_index": 378,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:12:38",
+      "start_index": 378,
+      "end_time": "00:13:20",
+      "end_index": 399,
+      "offset": 388,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0389.png",
+      "title": "Reinaldo"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:13:20",
+      "start_index": 399,
+      "end_time": "00:13:22",
+      "end_index": 400,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:13:22",
+      "start_index": 400,
+      "end_time": "00:13:28",
+      "end_index": 403,
+      "offset": 401,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0402.png",
+      "title": "+ Dennis Itkin's Personal Room Sean shared content"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:13:28",
+      "start_index": 403,
+      "end_time": "00:15:40",
+      "end_index": 469,
+      "offset": 436,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0437.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:15:40",
+      "start_index": 469,
+      "end_time": "00:17:12",
+      "end_index": 515,
+      "offset": 492,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0493.png",
+      "title": "\u20ac Q Dennis Room Viewing Sean shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:17:12",
+      "start_index": 515,
+      "end_time": "00:17:14",
+      "end_index": 516,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:17:14",
+      "start_index": 516,
+      "end_time": "00:17:18",
+      "end_index": 518,
+      "offset": 517,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0518.png",
+      "title": "e Reinaldo x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:17:18",
+      "start_index": 518,
+      "end_time": "00:17:20",
+      "end_index": 519,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:17:20",
+      "start_index": 519,
+      "end_time": "00:17:22",
+      "end_index": 520,
+      "offset": 519,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0520.png",
+      "title": "e Reinaldo x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:17:22",
+      "start_index": 520,
+      "end_time": "00:17:28",
+      "end_index": 523,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:17:28",
+      "start_index": 523,
+      "end_time": "00:17:32",
+      "end_index": 525,
+      "offset": 524,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0525.png",
+      "title": "Reinaldo"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:17:32",
+      "start_index": 525,
+      "end_time": "00:18:14",
+      "end_index": 546,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:18:14",
+      "start_index": 546,
+      "end_time": "00:18:18",
+      "end_index": 548,
+      "offset": 547,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0548.png",
+      "title": "Reinaldo"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:18:18",
+      "start_index": 548,
+      "end_time": "00:18:22",
+      "end_index": 550,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:18:22",
+      "start_index": 550,
+      "end_time": "00:18:24",
+      "end_index": 551,
+      "offset": 550,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0551.png",
+      "title": "Reinaldo"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:18:24",
+      "start_index": 551,
+      "end_time": "00:18:32",
+      "end_index": 555,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:18:32",
+      "start_index": 555,
+      "end_time": "00:18:34",
+      "end_index": 556,
+      "offset": 555,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0556.png",
+      "title": "Reinaldo @ x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:18:34",
+      "start_index": 556,
+      "end_time": "00:18:40",
+      "end_index": 559,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:18:40",
+      "start_index": 559,
+      "end_time": "00:18:42",
+      "end_index": 560,
+      "offset": 559,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0560.png",
+      "title": "@ \u20ac Q Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:18:42",
+      "start_index": 560,
+      "end_time": "00:20:10",
+      "end_index": 604,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:20:10",
+      "start_index": 604,
+      "end_time": "00:20:12",
+      "end_index": 605,
+      "offset": 604,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0605.png",
+      "title": "e Reinaldo x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:20:12",
+      "start_index": 605,
+      "end_time": "00:20:26",
+      "end_index": 612,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:20:26",
+      "start_index": 612,
+      "end_time": "00:20:28",
+      "end_index": 613,
+      "offset": 612,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0613.png",
+      "title": "Calendar"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:20:28",
+      "start_index": 613,
+      "end_time": "00:20:32",
+      "end_index": 615,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:20:32",
+      "start_index": 615,
+      "end_time": "00:20:34",
+      "end_index": 616,
+      "offset": 615,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0616.png",
+      "title": "Calendar"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:20:34",
+      "start_index": 616,
+      "end_time": "00:20:48",
+      "end_index": 623,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:20:48",
+      "start_index": 623,
+      "end_time": "00:21:48",
+      "end_index": 653,
+      "offset": 638,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0639.png",
+      "title": "Calendar"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:21:48",
+      "start_index": 653,
+      "end_time": "00:21:50",
+      "end_index": 654,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:21:50",
+      "start_index": 654,
+      "end_time": "00:22:12",
+      "end_index": 665,
+      "offset": 659,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0660.png",
+      "title": "Calendar"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:22:12",
+      "start_index": 665,
+      "end_time": "00:22:14",
+      "end_index": 666,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:22:14",
+      "start_index": 666,
+      "end_time": "00:22:24",
+      "end_index": 671,
+      "offset": 668,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0669.png",
+      "title": "Calendar"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:22:24",
+      "start_index": 671,
+      "end_time": "00:22:32",
+      "end_index": 675,
+      "offset": 673,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0674.png",
+      "title": "Personal Room Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:22:32",
+      "start_index": 675,
+      "end_time": "00:22:34",
+      "end_index": 676,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:22:34",
+      "start_index": 676,
+      "end_time": "00:22:56",
+      "end_index": 687,
+      "offset": 681,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0682.png",
+      "title": "Calendar -"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:22:56",
+      "start_index": 687,
+      "end_time": "00:22:58",
+      "end_index": 688,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:22:58",
+      "start_index": 688,
+      "end_time": "00:23:16",
+      "end_index": 697,
+      "offset": 692,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0693.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:23:16",
+      "start_index": 697,
+      "end_time": "00:23:22",
+      "end_index": 700,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:23:22",
+      "start_index": 700,
+      "end_time": "00:23:24",
+      "end_index": 701,
+      "offset": 700,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0701.png",
+      "title": "Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:23:24",
+      "start_index": 701,
+      "end_time": "00:23:36",
+      "end_index": 707,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:23:36",
+      "start_index": 707,
+      "end_time": "00:23:42",
+      "end_index": 710,
+      "offset": 708,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0709.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:23:42",
+      "start_index": 710,
+      "end_time": "00:24:08",
+      "end_index": 723,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:24:08",
+      "start_index": 723,
+      "end_time": "00:24:10",
+      "end_index": 724,
+      "offset": 723,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0724.png",
+      "title": "| x +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:24:10",
+      "start_index": 724,
+      "end_time": "00:24:16",
+      "end_index": 727,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:24:16",
+      "start_index": 727,
+      "end_time": "00:24:18",
+      "end_index": 728,
+      "offset": 727,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0728.png",
+      "title": "| x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:24:18",
+      "start_index": 728,
+      "end_time": "00:24:48",
+      "end_index": 743,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:24:48",
+      "start_index": 743,
+      "end_time": "00:24:50",
+      "end_index": 744,
+      "offset": 743,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0744.png",
+      "title": "\u20ac > Q Dennis Personal Room Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:24:50",
+      "start_index": 744,
+      "end_time": "00:24:52",
+      "end_index": 745,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:24:52",
+      "start_index": 745,
+      "end_time": "00:24:56",
+      "end_index": 747,
+      "offset": 746,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0747.png",
+      "title": "itkin"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:24:56",
+      "start_index": 747,
+      "end_time": "00:24:58",
+      "end_index": 748,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:24:58",
+      "start_index": 748,
+      "end_time": "00:25:00",
+      "end_index": 749,
+      "offset": 748,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0749.png",
+      "title": "\u20ac Dennis Personal Room Meeting Viewing Sean shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:25:00",
+      "start_index": 749,
+      "end_time": "00:25:10",
+      "end_index": 754,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:25:10",
+      "start_index": 754,
+      "end_time": "00:25:18",
+      "end_index": 758,
+      "offset": 756,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0757.png",
+      "title": "Dennis Itkin's Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:25:18",
+      "start_index": 758,
+      "end_time": "00:25:22",
+      "end_index": 760,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:25:22",
+      "start_index": 760,
+      "end_time": "00:25:24",
+      "end_index": 761,
+      "offset": 760,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0761.png",
+      "title": "\u20ac Dennis Personal Room ) Meeting info Viewing Sean shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:25:24",
+      "start_index": 761,
+      "end_time": "00:25:26",
+      "end_index": 762,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:25:26",
+      "start_index": 762,
+      "end_time": "00:25:30",
+      "end_index": 764,
+      "offset": 763,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0764.png",
+      "title": "| x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:25:30",
+      "start_index": 764,
+      "end_time": "00:25:44",
+      "end_index": 771,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:25:44",
+      "start_index": 771,
+      "end_time": "00:26:04",
+      "end_index": 781,
+      "offset": 776,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0777.png",
+      "title": "\u20ac Q Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:26:04",
+      "start_index": 781,
+      "end_time": "00:26:20",
+      "end_index": 789,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:26:20",
+      "start_index": 789,
+      "end_time": "00:26:28",
+      "end_index": 793,
+      "offset": 791,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0792.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:26:28",
+      "start_index": 793,
+      "end_time": "00:26:30",
+      "end_index": 794,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:26:30",
+      "start_index": 794,
+      "end_time": "00:26:42",
+      "end_index": 800,
+      "offset": 797,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0798.png",
+      "title": "Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:26:42",
+      "start_index": 800,
+      "end_time": "00:26:48",
+      "end_index": 803,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:26:48",
+      "start_index": 803,
+      "end_time": "00:26:50",
+      "end_index": 804,
+      "offset": 803,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0804.png",
+      "title": "| x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:26:50",
+      "start_index": 804,
+      "end_time": "00:27:22",
+      "end_index": 820,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:27:22",
+      "start_index": 820,
+      "end_time": "00:27:38",
+      "end_index": 828,
+      "offset": 824,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0825.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:27:38",
+      "start_index": 828,
+      "end_time": "00:27:40",
+      "end_index": 829,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:27:40",
+      "start_index": 829,
+      "end_time": "00:27:50",
+      "end_index": 834,
+      "offset": 831,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0832.png",
+      "title": "| x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:27:50",
+      "start_index": 834,
+      "end_time": "00:27:52",
+      "end_index": 835,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:27:52",
+      "start_index": 835,
+      "end_time": "00:27:54",
+      "end_index": 836,
+      "offset": 835,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0836.png",
+      "title": "| x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:27:54",
+      "start_index": 836,
+      "end_time": "00:28:00",
+      "end_index": 839,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:28:00",
+      "start_index": 839,
+      "end_time": "00:28:04",
+      "end_index": 841,
+      "offset": 840,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0841.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:28:04",
+      "start_index": 841,
+      "end_time": "00:28:10",
+      "end_index": 844,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:28:10",
+      "start_index": 844,
+      "end_time": "00:28:26",
+      "end_index": 852,
+      "offset": 848,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0849.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:28:26",
+      "start_index": 852,
+      "end_time": "00:28:48",
+      "end_index": 863,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:28:48",
+      "start_index": 863,
+      "end_time": "00:28:50",
+      "end_index": 864,
+      "offset": 863,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0864.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:28:50",
+      "start_index": 864,
+      "end_time": "00:28:54",
+      "end_index": 866,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:28:54",
+      "start_index": 866,
+      "end_time": "00:28:56",
+      "end_index": 867,
+      "offset": 866,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0867.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:28:56",
+      "start_index": 867,
+      "end_time": "00:29:08",
+      "end_index": 873,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:29:08",
+      "start_index": 873,
+      "end_time": "00:29:10",
+      "end_index": 874,
+      "offset": 873,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0874.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:29:10",
+      "start_index": 874,
+      "end_time": "00:29:30",
+      "end_index": 884,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:29:30",
+      "start_index": 884,
+      "end_time": "00:29:32",
+      "end_index": 885,
+      "offset": 884,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0885.png",
+      "title": "Dennis Personal Room Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:29:32",
+      "start_index": 885,
+      "end_time": "00:29:38",
+      "end_index": 888,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:29:38",
+      "start_index": 888,
+      "end_time": "00:29:40",
+      "end_index": 889,
+      "offset": 888,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0889.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:29:40",
+      "start_index": 889,
+      "end_time": "00:30:10",
+      "end_index": 904,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:30:10",
+      "start_index": 904,
+      "end_time": "00:30:18",
+      "end_index": 908,
+      "offset": 906,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0907.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:30:18",
+      "start_index": 908,
+      "end_time": "00:30:42",
+      "end_index": 920,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:30:42",
+      "start_index": 920,
+      "end_time": "00:30:44",
+      "end_index": 921,
+      "offset": 920,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0921.png",
+      "title": "| x + \u20ac > Dennis Personal Room ) Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:30:44",
+      "start_index": 921,
+      "end_time": "00:30:46",
+      "end_index": 922,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:30:46",
+      "start_index": 922,
+      "end_time": "00:30:48",
+      "end_index": 923,
+      "offset": 922,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0923.png",
+      "title": "@ ) Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:30:48",
+      "start_index": 923,
+      "end_time": "00:30:52",
+      "end_index": 925,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:30:52",
+      "start_index": 925,
+      "end_time": "00:30:54",
+      "end_index": 926,
+      "offset": 925,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0926.png",
+      "title": "Dennis Itkin's Personal Room Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:30:54",
+      "start_index": 926,
+      "end_time": "00:30:56",
+      "end_index": 927,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:30:56",
+      "start_index": 927,
+      "end_time": "00:31:00",
+      "end_index": 929,
+      "offset": 928,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0929.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:31:00",
+      "start_index": 929,
+      "end_time": "00:31:04",
+      "end_index": 931,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:31:04",
+      "start_index": 931,
+      "end_time": "00:31:06",
+      "end_index": 932,
+      "offset": 931,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0932.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:31:06",
+      "start_index": 932,
+      "end_time": "00:31:10",
+      "end_index": 934,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:31:10",
+      "start_index": 934,
+      "end_time": "00:31:14",
+      "end_index": 936,
+      "offset": 935,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0936.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:31:14",
+      "start_index": 936,
+      "end_time": "00:31:24",
+      "end_index": 941,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:31:24",
+      "start_index": 941,
+      "end_time": "00:31:26",
+      "end_index": 942,
+      "offset": 941,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0942.png",
+      "title": "| x +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:31:26",
+      "start_index": 942,
+      "end_time": "00:31:32",
+      "end_index": 945,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:31:32",
+      "start_index": 945,
+      "end_time": "00:31:36",
+      "end_index": 947,
+      "offset": 946,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0947.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:31:36",
+      "start_index": 947,
+      "end_time": "00:31:38",
+      "end_index": 948,
+      "offset": 947,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0948.png",
+      "title": "Q Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:31:38",
+      "start_index": 948,
+      "end_time": "00:31:46",
+      "end_index": 952,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:31:46",
+      "start_index": 952,
+      "end_time": "00:32:08",
+      "end_index": 963,
+      "offset": 957,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0958.png",
+      "title": "\u20ac Q Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:32:08",
+      "start_index": 963,
+      "end_time": "00:32:10",
+      "end_index": 964,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:32:10",
+      "start_index": 964,
+      "end_time": "00:32:14",
+      "end_index": 966,
+      "offset": 965,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0966.png",
+      "title": "x Inmeeting-Meeting-We"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:32:14",
+      "start_index": 966,
+      "end_time": "00:32:16",
+      "end_index": 967,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:32:16",
+      "start_index": 967,
+      "end_time": "00:32:32",
+      "end_index": 975,
+      "offset": 971,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0972.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:32:32",
+      "start_index": 975,
+      "end_time": "00:32:42",
+      "end_index": 980,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:32:42",
+      "start_index": 980,
+      "end_time": "00:32:44",
+      "end_index": 981,
+      "offset": 980,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0981.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:32:44",
+      "start_index": 981,
+      "end_time": "00:32:48",
+      "end_index": 983,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:32:48",
+      "start_index": 983,
+      "end_time": "00:32:50",
+      "end_index": 984,
+      "offset": 983,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0984.png",
+      "title": "Dennis Personal Room Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:32:50",
+      "start_index": 984,
+      "end_time": "00:32:52",
+      "end_index": 985,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:32:52",
+      "start_index": 985,
+      "end_time": "00:32:54",
+      "end_index": 986,
+      "offset": 985,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0986.png",
+      "title": "Q Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:32:54",
+      "start_index": 986,
+      "end_time": "00:32:56",
+      "end_index": 987,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:32:56",
+      "start_index": 987,
+      "end_time": "00:32:58",
+      "end_index": 988,
+      "offset": 987,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0988.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:32:58",
+      "start_index": 988,
+      "end_time": "00:33:00",
+      "end_index": 989,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:33:00",
+      "start_index": 989,
+      "end_time": "00:33:06",
+      "end_index": 992,
+      "offset": 990,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0991.png",
+      "title": "| x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:33:06",
+      "start_index": 992,
+      "end_time": "00:33:08",
+      "end_index": 993,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:33:08",
+      "start_index": 993,
+      "end_time": "00:33:10",
+      "end_index": 994,
+      "offset": 993,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0994.png",
+      "title": "| x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:33:10",
+      "start_index": 994,
+      "end_time": "00:33:12",
+      "end_index": 995,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:33:12",
+      "start_index": 995,
+      "end_time": "00:33:16",
+      "end_index": 997,
+      "offset": 996,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0997.png",
+      "title": "| x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:33:16",
+      "start_index": 997,
+      "end_time": "00:33:18",
+      "end_index": 998,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:33:18",
+      "start_index": 998,
+      "end_time": "00:33:20",
+      "end_index": 999,
+      "offset": 998,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-0999.png",
+      "title": "| @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:33:20",
+      "start_index": 999,
+      "end_time": "00:33:22",
+      "end_index": 1000,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:33:22",
+      "start_index": 1000,
+      "end_time": "00:33:24",
+      "end_index": 1001,
+      "offset": 1000,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1001.png",
+      "title": "| @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:33:24",
+      "start_index": 1001,
+      "end_time": "00:33:30",
+      "end_index": 1004,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:33:30",
+      "start_index": 1004,
+      "end_time": "00:33:36",
+      "end_index": 1007,
+      "offset": 1005,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1006.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:33:36",
+      "start_index": 1007,
+      "end_time": "00:33:38",
+      "end_index": 1008,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:33:38",
+      "start_index": 1008,
+      "end_time": "00:33:54",
+      "end_index": 1016,
+      "offset": 1012,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1013.png",
+      "title": "| \u20ac > Q Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:33:54",
+      "start_index": 1016,
+      "end_time": "00:34:06",
+      "end_index": 1022,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:34:06",
+      "start_index": 1022,
+      "end_time": "00:34:08",
+      "end_index": 1023,
+      "offset": 1022,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1023.png",
+      "title": "Q Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:34:08",
+      "start_index": 1023,
+      "end_time": "00:34:12",
+      "end_index": 1025,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:34:12",
+      "start_index": 1025,
+      "end_time": "00:34:16",
+      "end_index": 1027,
+      "offset": 1026,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1027.png",
+      "title": "Q Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:34:16",
+      "start_index": 1027,
+      "end_time": "00:34:18",
+      "end_index": 1028,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:34:18",
+      "start_index": 1028,
+      "end_time": "00:34:32",
+      "end_index": 1035,
+      "offset": 1031,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1032.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:34:32",
+      "start_index": 1035,
+      "end_time": "00:34:34",
+      "end_index": 1036,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:34:34",
+      "start_index": 1036,
+      "end_time": "00:34:42",
+      "end_index": 1040,
+      "offset": 1038,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1039.png",
+      "title": "Layout"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:34:42",
+      "start_index": 1040,
+      "end_time": "00:34:44",
+      "end_index": 1041,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:34:44",
+      "start_index": 1041,
+      "end_time": "00:34:46",
+      "end_index": 1042,
+      "offset": 1041,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1042.png",
+      "title": "Layout Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:34:46",
+      "start_index": 1042,
+      "end_time": "00:34:48",
+      "end_index": 1043,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:34:48",
+      "start_index": 1043,
+      "end_time": "00:34:50",
+      "end_index": 1044,
+      "offset": 1043,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1044.png",
+      "title": "e Calendar x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:34:50",
+      "start_index": 1044,
+      "end_time": "00:34:56",
+      "end_index": 1047,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:34:56",
+      "start_index": 1047,
+      "end_time": "00:34:58",
+      "end_index": 1048,
+      "offset": 1047,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1048.png",
+      "title": "e Calendar x x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:34:58",
+      "start_index": 1048,
+      "end_time": "00:35:12",
+      "end_index": 1055,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:35:12",
+      "start_index": 1055,
+      "end_time": "00:35:30",
+      "end_index": 1064,
+      "offset": 1059,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1060.png",
+      "title": "e Calendar"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:35:30",
+      "start_index": 1064,
+      "end_time": "00:35:32",
+      "end_index": 1065,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:35:32",
+      "start_index": 1065,
+      "end_time": "00:35:44",
+      "end_index": 1071,
+      "offset": 1068,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1069.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:35:44",
+      "start_index": 1071,
+      "end_time": "00:35:46",
+      "end_index": 1072,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:35:46",
+      "start_index": 1072,
+      "end_time": "00:35:48",
+      "end_index": 1073,
+      "offset": 1072,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1073.png",
+      "title": "Calendar x x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:35:48",
+      "start_index": 1073,
+      "end_time": "00:35:50",
+      "end_index": 1074,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:35:50",
+      "start_index": 1074,
+      "end_time": "00:35:52",
+      "end_index": 1075,
+      "offset": 1074,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1075.png",
+      "title": "e Calendar x x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:35:52",
+      "start_index": 1075,
+      "end_time": "00:35:56",
+      "end_index": 1077,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:35:56",
+      "start_index": 1077,
+      "end_time": "00:36:14",
+      "end_index": 1086,
+      "offset": 1081,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1082.png",
+      "title": "Calendar"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:36:14",
+      "start_index": 1086,
+      "end_time": "00:36:16",
+      "end_index": 1087,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:36:16",
+      "start_index": 1087,
+      "end_time": "00:36:24",
+      "end_index": 1091,
+      "offset": 1089,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1090.png",
+      "title": "Calendar"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:36:24",
+      "start_index": 1091,
+      "end_time": "00:36:26",
+      "end_index": 1092,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:36:26",
+      "start_index": 1092,
+      "end_time": "00:36:30",
+      "end_index": 1094,
+      "offset": 1093,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1094.png",
+      "title": "Calendar"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:36:30",
+      "start_index": 1094,
+      "end_time": "00:36:32",
+      "end_index": 1095,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:36:32",
+      "start_index": 1095,
+      "end_time": "00:36:44",
+      "end_index": 1101,
+      "offset": 1098,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1099.png",
+      "title": "Calendar"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:36:44",
+      "start_index": 1101,
+      "end_time": "00:36:46",
+      "end_index": 1102,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:36:46",
+      "start_index": 1102,
+      "end_time": "00:36:48",
+      "end_index": 1103,
+      "offset": 1102,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1103.png",
+      "title": "Calendar"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:36:48",
+      "start_index": 1103,
+      "end_time": "00:36:50",
+      "end_index": 1104,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:36:50",
+      "start_index": 1104,
+      "end_time": "00:37:04",
+      "end_index": 1111,
+      "offset": 1107,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1108.png",
+      "title": "e Calendar"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:37:04",
+      "start_index": 1111,
+      "end_time": "00:37:06",
+      "end_index": 1112,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:37:06",
+      "start_index": 1112,
+      "end_time": "00:37:14",
+      "end_index": 1116,
+      "offset": 1114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1115.png",
+      "title": "e Calendar"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:37:14",
+      "start_index": 1116,
+      "end_time": "00:37:16",
+      "end_index": 1117,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:37:16",
+      "start_index": 1117,
+      "end_time": "00:37:18",
+      "end_index": 1118,
+      "offset": 1117,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1118.png",
+      "title": "- Reinaldo x @ x \u00a9 Dennis Itkin's Personal Room Layout Meeting info Viewing Sean shared content 100% BRAND VISIBILITY CUSTOMER ENGAGEMENT SUPPLY CHAIN ADOBE CX ANALYTICS Vamsi (Adobe) \u00a9 Unverified powered by Adobe Al Platform Enterprise Coworker | Adobe Agents & 3rd party Agents | Agent Skills | Tools | MCPs Adobe Brand Intelligence Adobe Engagement Intelligence Adobe Firefly, Proprietary CX models, 3rd party models Adrienne Tsai \u00a9 Unverified \u2018Adobe Experience Platform Trust, Privacy, Security, and Governance | + Enterprise Context SAMSUNG \u00ab Adobe video"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:37:18",
+      "start_index": 1118,
+      "end_time": "00:37:28",
+      "end_index": 1123,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:37:28",
+      "start_index": 1123,
+      "end_time": "00:37:38",
+      "end_index": 1128,
+      "offset": 1125,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1126.png",
+      "title": "Calendar - Reinaldo x \u00a9 tracker M Dennis Personal Room Meeting info Viewing Sean shared content 100% BRAND VISIBILITY ENGAGEMENT SUPPLY CHAIN ADOBE CX ANALYTICS Vamsi (Adobe) \u00a9 Unverified powered by Adobe Al Platform Enterprise Coworker | Adobe Agents & 3rd party Agents | Agent Skills | Tools | MCPs Adobe Brand Intelligence Adobe Engagement Intelligence Adobe Firefly, Proprietary CX models, 3rd party models Adrienne Tsai \u00a9 Unverified \u2018Adobe Experience Platform Trust, Privacy, Security, and Governance | + Enterprise Context SAMSUNG Adobe video"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:37:38",
+      "start_index": 1128,
+      "end_time": "00:37:44",
+      "end_index": 1131,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:37:44",
+      "start_index": 1131,
+      "end_time": "00:37:48",
+      "end_index": 1133,
+      "offset": 1132,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1133.png",
+      "title": "@ Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:37:48",
+      "start_index": 1133,
+      "end_time": "00:37:54",
+      "end_index": 1136,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:37:54",
+      "start_index": 1136,
+      "end_time": "00:37:58",
+      "end_index": 1138,
+      "offset": 1137,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1138.png",
+      "title": "e Reinaldo x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:37:58",
+      "start_index": 1138,
+      "end_time": "00:38:02",
+      "end_index": 1140,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:38:02",
+      "start_index": 1140,
+      "end_time": "00:38:04",
+      "end_index": 1141,
+      "offset": 1140,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1141.png",
+      "title": "e Reinaldo x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:38:04",
+      "start_index": 1141,
+      "end_time": "00:38:10",
+      "end_index": 1144,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:38:10",
+      "start_index": 1144,
+      "end_time": "00:38:12",
+      "end_index": 1145,
+      "offset": 1144,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1145.png",
+      "title": "e Reinaldo x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:38:12",
+      "start_index": 1145,
+      "end_time": "00:38:18",
+      "end_index": 1148,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:38:18",
+      "start_index": 1148,
+      "end_time": "00:38:22",
+      "end_index": 1150,
+      "offset": 1149,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1150.png",
+      "title": "e Reinaldo x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:38:22",
+      "start_index": 1150,
+      "end_time": "00:38:44",
+      "end_index": 1161,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:38:44",
+      "start_index": 1161,
+      "end_time": "00:38:46",
+      "end_index": 1162,
+      "offset": 1161,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1162.png",
+      "title": "e Reinaldo x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:38:46",
+      "start_index": 1162,
+      "end_time": "00:39:44",
+      "end_index": 1191,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:39:44",
+      "start_index": 1191,
+      "end_time": "00:39:46",
+      "end_index": 1192,
+      "offset": 1191,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1192.png",
+      "title": "e Reinaldo"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:39:46",
+      "start_index": 1192,
+      "end_time": "00:40:06",
+      "end_index": 1202,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:40:06",
+      "start_index": 1202,
+      "end_time": "00:40:16",
+      "end_index": 1207,
+      "offset": 1204,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1205.png",
+      "title": "Dennis Room Viewing Sean shared content 100%"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:40:16",
+      "start_index": 1207,
+      "end_time": "00:40:30",
+      "end_index": 1214,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:40:30",
+      "start_index": 1214,
+      "end_time": "00:40:32",
+      "end_index": 1215,
+      "offset": 1214,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1215.png",
+      "title": "e Calendar x x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:40:32",
+      "start_index": 1215,
+      "end_time": "00:40:36",
+      "end_index": 1217,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:40:36",
+      "start_index": 1217,
+      "end_time": "00:40:38",
+      "end_index": 1218,
+      "offset": 1217,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1218.png",
+      "title": "e Calendar x x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:40:38",
+      "start_index": 1218,
+      "end_time": "00:40:48",
+      "end_index": 1223,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:40:48",
+      "start_index": 1223,
+      "end_time": "00:40:50",
+      "end_index": 1224,
+      "offset": 1223,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1224.png",
+      "title": "e Calendar x x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:40:50",
+      "start_index": 1224,
+      "end_time": "00:40:56",
+      "end_index": 1227,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:40:56",
+      "start_index": 1227,
+      "end_time": "00:41:06",
+      "end_index": 1232,
+      "offset": 1229,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1230.png",
+      "title": "e - Reinaldo x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:41:06",
+      "start_index": 1232,
+      "end_time": "00:41:08",
+      "end_index": 1233,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:41:08",
+      "start_index": 1233,
+      "end_time": "00:42:52",
+      "end_index": 1285,
+      "offset": 1259,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1260.png",
+      "title": "e Calendar x x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:42:52",
+      "start_index": 1285,
+      "end_time": "00:42:54",
+      "end_index": 1286,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:42:54",
+      "start_index": 1286,
+      "end_time": "00:43:50",
+      "end_index": 1314,
+      "offset": 1300,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1301.png",
+      "title": "e Calendar x x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:43:50",
+      "start_index": 1314,
+      "end_time": "00:43:52",
+      "end_index": 1315,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:43:52",
+      "start_index": 1315,
+      "end_time": "00:45:20",
+      "end_index": 1359,
+      "offset": 1337,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1338.png",
+      "title": "e Calendar x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:45:20",
+      "start_index": 1359,
+      "end_time": "00:45:22",
+      "end_index": 1360,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:45:22",
+      "start_index": 1360,
+      "end_time": "00:45:48",
+      "end_index": 1373,
+      "offset": 1366,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1367.png",
+      "title": "Calendar x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:45:48",
+      "start_index": 1373,
+      "end_time": "00:45:50",
+      "end_index": 1374,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:45:50",
+      "start_index": 1374,
+      "end_time": "00:45:52",
+      "end_index": 1375,
+      "offset": 1374,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1375.png",
+      "title": "@ Meeting info Viewing Sean shared"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:45:52",
+      "start_index": 1375,
+      "end_time": "00:46:06",
+      "end_index": 1382,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:46:06",
+      "start_index": 1382,
+      "end_time": "00:46:12",
+      "end_index": 1385,
+      "offset": 1383,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1384.png",
+      "title": "Calendar x x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:46:12",
+      "start_index": 1385,
+      "end_time": "00:46:14",
+      "end_index": 1386,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:46:14",
+      "start_index": 1386,
+      "end_time": "00:46:18",
+      "end_index": 1388,
+      "offset": 1387,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1388.png",
+      "title": "Meeting"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:46:18",
+      "start_index": 1388,
+      "end_time": "00:46:26",
+      "end_index": 1392,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:46:26",
+      "start_index": 1392,
+      "end_time": "00:46:28",
+      "end_index": 1393,
+      "offset": 1392,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1393.png",
+      "title": "@ Meeting info )"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:46:28",
+      "start_index": 1393,
+      "end_time": "00:46:34",
+      "end_index": 1396,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:46:34",
+      "start_index": 1396,
+      "end_time": "00:46:38",
+      "end_index": 1398,
+      "offset": 1397,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1398.png",
+      "title": "@ Meeting info )"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:46:38",
+      "start_index": 1398,
+      "end_time": "00:46:40",
+      "end_index": 1399,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:46:40",
+      "start_index": 1399,
+      "end_time": "00:46:42",
+      "end_index": 1400,
+      "offset": 1399,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1400.png",
+      "title": "@ Meeting info )"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:46:42",
+      "start_index": 1400,
+      "end_time": "00:46:48",
+      "end_index": 1403,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:46:48",
+      "start_index": 1403,
+      "end_time": "00:46:52",
+      "end_index": 1405,
+      "offset": 1404,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1405.png",
+      "title": "Meeting"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:46:52",
+      "start_index": 1405,
+      "end_time": "00:47:04",
+      "end_index": 1411,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:47:04",
+      "start_index": 1411,
+      "end_time": "00:47:06",
+      "end_index": 1412,
+      "offset": 1411,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1412.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:47:06",
+      "start_index": 1412,
+      "end_time": "00:47:10",
+      "end_index": 1414,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:47:10",
+      "start_index": 1414,
+      "end_time": "00:47:12",
+      "end_index": 1415,
+      "offset": 1414,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1415.png",
+      "title": "@ Meeting"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:47:12",
+      "start_index": 1415,
+      "end_time": "00:47:24",
+      "end_index": 1421,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:47:24",
+      "start_index": 1421,
+      "end_time": "00:47:26",
+      "end_index": 1422,
+      "offset": 1421,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1422.png",
+      "title": "@ (@ Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:47:26",
+      "start_index": 1422,
+      "end_time": "00:47:44",
+      "end_index": 1431,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:47:44",
+      "start_index": 1431,
+      "end_time": "00:47:50",
+      "end_index": 1434,
+      "offset": 1432,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1433.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:47:50",
+      "start_index": 1434,
+      "end_time": "00:47:52",
+      "end_index": 1435,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:47:52",
+      "start_index": 1435,
+      "end_time": "00:47:58",
+      "end_index": 1438,
+      "offset": 1436,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1437.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:47:58",
+      "start_index": 1438,
+      "end_time": "00:48:02",
+      "end_index": 1440,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:48:02",
+      "start_index": 1440,
+      "end_time": "00:48:08",
+      "end_index": 1443,
+      "offset": 1441,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1442.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:48:08",
+      "start_index": 1443,
+      "end_time": "00:48:10",
+      "end_index": 1444,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:48:10",
+      "start_index": 1444,
+      "end_time": "00:48:44",
+      "end_index": 1461,
+      "offset": 1452,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1453.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:48:44",
+      "start_index": 1461,
+      "end_time": "00:48:46",
+      "end_index": 1462,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:48:46",
+      "start_index": 1462,
+      "end_time": "00:48:48",
+      "end_index": 1463,
+      "offset": 1462,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1463.png",
+      "title": "Dennis Personal"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:48:48",
+      "start_index": 1463,
+      "end_time": "00:48:50",
+      "end_index": 1464,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:48:50",
+      "start_index": 1464,
+      "end_time": "00:48:52",
+      "end_index": 1465,
+      "offset": 1464,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1465.png",
+      "title": "Meeting info )"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:48:52",
+      "start_index": 1465,
+      "end_time": "00:49:02",
+      "end_index": 1470,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:49:02",
+      "start_index": 1470,
+      "end_time": "00:49:08",
+      "end_index": 1473,
+      "offset": 1471,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1472.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:49:08",
+      "start_index": 1473,
+      "end_time": "00:49:10",
+      "end_index": 1474,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:49:10",
+      "start_index": 1474,
+      "end_time": "00:49:28",
+      "end_index": 1483,
+      "offset": 1478,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1479.png",
+      "title": "| x +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:49:28",
+      "start_index": 1483,
+      "end_time": "00:49:30",
+      "end_index": 1484,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:49:30",
+      "start_index": 1484,
+      "end_time": "00:50:08",
+      "end_index": 1503,
+      "offset": 1493,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1494.png",
+      "title": "Meeting info )"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:50:08",
+      "start_index": 1503,
+      "end_time": "00:50:18",
+      "end_index": 1508,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:50:18",
+      "start_index": 1508,
+      "end_time": "00:50:20",
+      "end_index": 1509,
+      "offset": 1508,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1509.png",
+      "title": ") Meeting info )"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:50:20",
+      "start_index": 1509,
+      "end_time": "00:50:24",
+      "end_index": 1511,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:50:24",
+      "start_index": 1511,
+      "end_time": "00:50:26",
+      "end_index": 1512,
+      "offset": 1511,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1512.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:50:26",
+      "start_index": 1512,
+      "end_time": "00:50:30",
+      "end_index": 1514,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:50:30",
+      "start_index": 1514,
+      "end_time": "00:50:32",
+      "end_index": 1515,
+      "offset": 1514,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1515.png",
+      "title": "Dennis Personal"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:50:32",
+      "start_index": 1515,
+      "end_time": "00:50:44",
+      "end_index": 1521,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:50:44",
+      "start_index": 1521,
+      "end_time": "00:50:46",
+      "end_index": 1522,
+      "offset": 1521,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1522.png",
+      "title": "Meeting info )"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:50:46",
+      "start_index": 1522,
+      "end_time": "00:50:48",
+      "end_index": 1523,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:50:48",
+      "start_index": 1523,
+      "end_time": "00:50:50",
+      "end_index": 1524,
+      "offset": 1523,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1524.png",
+      "title": "Dennis Personal Meeting info )"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:50:50",
+      "start_index": 1524,
+      "end_time": "00:50:58",
+      "end_index": 1528,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:50:58",
+      "start_index": 1528,
+      "end_time": "00:51:00",
+      "end_index": 1529,
+      "offset": 1528,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1529.png",
+      "title": "Meeting"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:51:00",
+      "start_index": 1529,
+      "end_time": "00:51:02",
+      "end_index": 1530,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:51:02",
+      "start_index": 1530,
+      "end_time": "00:51:12",
+      "end_index": 1535,
+      "offset": 1532,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1533.png",
+      "title": "Q Dennis"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:51:12",
+      "start_index": 1535,
+      "end_time": "00:51:16",
+      "end_index": 1537,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:51:16",
+      "start_index": 1537,
+      "end_time": "00:51:20",
+      "end_index": 1539,
+      "offset": 1538,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1539.png",
+      "title": "\u20ac Q Dennis Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:51:20",
+      "start_index": 1539,
+      "end_time": "00:51:22",
+      "end_index": 1540,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:51:22",
+      "start_index": 1540,
+      "end_time": "00:51:40",
+      "end_index": 1549,
+      "offset": 1544,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1545.png",
+      "title": "Dennis Personal Room ) Viewing Sean shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:51:40",
+      "start_index": 1549,
+      "end_time": "00:51:42",
+      "end_index": 1550,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:51:42",
+      "start_index": 1550,
+      "end_time": "00:52:10",
+      "end_index": 1564,
+      "offset": 1557,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1558.png",
+      "title": "Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:52:10",
+      "start_index": 1564,
+      "end_time": "00:52:12",
+      "end_index": 1565,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:52:12",
+      "start_index": 1565,
+      "end_time": "00:52:18",
+      "end_index": 1568,
+      "offset": 1566,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1567.png",
+      "title": "Reinaldo Nani"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:52:18",
+      "start_index": 1568,
+      "end_time": "00:52:32",
+      "end_index": 1575,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:52:32",
+      "start_index": 1575,
+      "end_time": "00:53:00",
+      "end_index": 1589,
+      "offset": 1582,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1583.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:53:00",
+      "start_index": 1589,
+      "end_time": "00:53:02",
+      "end_index": 1590,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:53:02",
+      "start_index": 1590,
+      "end_time": "00:53:04",
+      "end_index": 1591,
+      "offset": 1590,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1591.png",
+      "title": "Meeting"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:53:04",
+      "start_index": 1591,
+      "end_time": "00:53:32",
+      "end_index": 1605,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:53:32",
+      "start_index": 1605,
+      "end_time": "00:53:36",
+      "end_index": 1607,
+      "offset": 1606,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1607.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:53:36",
+      "start_index": 1607,
+      "end_time": "00:53:38",
+      "end_index": 1608,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:53:38",
+      "start_index": 1608,
+      "end_time": "00:53:44",
+      "end_index": 1611,
+      "offset": 1609,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1610.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:53:44",
+      "start_index": 1611,
+      "end_time": "00:53:46",
+      "end_index": 1612,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:53:46",
+      "start_index": 1612,
+      "end_time": "00:53:50",
+      "end_index": 1614,
+      "offset": 1613,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1614.png",
+      "title": "| x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:53:50",
+      "start_index": 1614,
+      "end_time": "00:53:52",
+      "end_index": 1615,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:53:52",
+      "start_index": 1615,
+      "end_time": "00:53:54",
+      "end_index": 1616,
+      "offset": 1615,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1616.png",
+      "title": "| x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:53:54",
+      "start_index": 1616,
+      "end_time": "00:54:02",
+      "end_index": 1620,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:54:02",
+      "start_index": 1620,
+      "end_time": "00:54:04",
+      "end_index": 1621,
+      "offset": 1620,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1621.png",
+      "title": "| @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:54:04",
+      "start_index": 1621,
+      "end_time": "00:54:10",
+      "end_index": 1624,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:54:10",
+      "start_index": 1624,
+      "end_time": "00:54:12",
+      "end_index": 1625,
+      "offset": 1624,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1625.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:54:12",
+      "start_index": 1625,
+      "end_time": "00:54:14",
+      "end_index": 1626,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:54:14",
+      "start_index": 1626,
+      "end_time": "00:54:18",
+      "end_index": 1628,
+      "offset": 1627,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1628.png",
+      "title": "Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:54:18",
+      "start_index": 1628,
+      "end_time": "00:54:20",
+      "end_index": 1629,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:54:20",
+      "start_index": 1629,
+      "end_time": "00:54:56",
+      "end_index": 1647,
+      "offset": 1638,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1639.png",
+      "title": "Meeting info )"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:54:56",
+      "start_index": 1647,
+      "end_time": "00:55:16",
+      "end_index": 1657,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:55:16",
+      "start_index": 1657,
+      "end_time": "00:55:18",
+      "end_index": 1658,
+      "offset": 1657,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1658.png",
+      "title": "Q Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:55:18",
+      "start_index": 1658,
+      "end_time": "00:55:42",
+      "end_index": 1670,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:55:42",
+      "start_index": 1670,
+      "end_time": "00:55:52",
+      "end_index": 1675,
+      "offset": 1672,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1673.png",
+      "title": "Meeting info )"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:55:52",
+      "start_index": 1675,
+      "end_time": "00:55:54",
+      "end_index": 1676,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:55:54",
+      "start_index": 1676,
+      "end_time": "00:56:18",
+      "end_index": 1688,
+      "offset": 1682,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1683.png",
+      "title": "Layout ) Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:56:18",
+      "start_index": 1688,
+      "end_time": "00:56:20",
+      "end_index": 1689,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:56:20",
+      "start_index": 1689,
+      "end_time": "00:56:30",
+      "end_index": 1694,
+      "offset": 1691,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1692.png",
+      "title": "Q Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:56:30",
+      "start_index": 1694,
+      "end_time": "00:56:32",
+      "end_index": 1695,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:56:32",
+      "start_index": 1695,
+      "end_time": "00:56:46",
+      "end_index": 1702,
+      "offset": 1698,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1699.png",
+      "title": "Reinaldo x Q Personal Room"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:56:46",
+      "start_index": 1702,
+      "end_time": "00:57:08",
+      "end_index": 1713,
+      "offset": 1707,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1708.png",
+      "title": "Dennis Room Layout Meeting info Viewing Sean shared 100%"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:57:08",
+      "start_index": 1713,
+      "end_time": "00:57:10",
+      "end_index": 1714,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:57:10",
+      "start_index": 1714,
+      "end_time": "00:57:18",
+      "end_index": 1718,
+      "offset": 1716,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1717.png",
+      "title": "Dennis Itkin's Personal Room Layout Meeting info Viewing Sean shared 100%"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:57:18",
+      "start_index": 1718,
+      "end_time": "00:57:20",
+      "end_index": 1719,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:57:20",
+      "start_index": 1719,
+      "end_time": "00:57:28",
+      "end_index": 1723,
+      "offset": 1721,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1722.png",
+      "title": "Calendar - Reinaldo x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:57:28",
+      "start_index": 1723,
+      "end_time": "00:57:30",
+      "end_index": 1724,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:57:30",
+      "start_index": 1724,
+      "end_time": "00:57:40",
+      "end_index": 1729,
+      "offset": 1726,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1727.png",
+      "title": "con Dennis Itkin's Personal Room Layout Meeting info Viewing Sean shared 100%"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:57:40",
+      "start_index": 1729,
+      "end_time": "00:57:42",
+      "end_index": 1730,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:57:42",
+      "start_index": 1730,
+      "end_time": "00:58:36",
+      "end_index": 1757,
+      "offset": 1743,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1744.png",
+      "title": "x ssc con Dennis Itkin's Personal Room Layout Meeting info Viewing Sean shared 100%"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:58:36",
+      "start_index": 1757,
+      "end_time": "00:58:40",
+      "end_index": 1759,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:58:40",
+      "start_index": 1759,
+      "end_time": "00:58:44",
+      "end_index": 1761,
+      "offset": 1760,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1761.png",
+      "title": "Room Meeting info Viewing Sean shared 100%"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:58:44",
+      "start_index": 1761,
+      "end_time": "00:58:46",
+      "end_index": 1762,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:58:46",
+      "start_index": 1762,
+      "end_time": "00:58:54",
+      "end_index": 1766,
+      "offset": 1764,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1765.png",
+      "title": "@ \u00ae Meeting info Viewing Sean shared content >"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:58:54",
+      "start_index": 1766,
+      "end_time": "00:58:58",
+      "end_index": 1768,
+      "offset": 1767,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1768.png",
+      "title": "\u20ac > Q"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:58:58",
+      "start_index": 1768,
+      "end_time": "00:59:00",
+      "end_index": 1769,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:59:00",
+      "start_index": 1769,
+      "end_time": "00:59:22",
+      "end_index": 1780,
+      "offset": 1774,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1775.png",
+      "title": "Dennis Personal Room Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:59:22",
+      "start_index": 1780,
+      "end_time": "00:59:24",
+      "end_index": 1781,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:59:24",
+      "start_index": 1781,
+      "end_time": "00:59:30",
+      "end_index": 1784,
+      "offset": 1782,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1783.png",
+      "title": "Reinaldo"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:59:30",
+      "start_index": 1784,
+      "end_time": "00:59:32",
+      "end_index": 1785,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:59:32",
+      "start_index": 1785,
+      "end_time": "01:00:20",
+      "end_index": 1809,
+      "offset": 1797,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1798.png",
+      "title": "Q Room (@ Sean shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:00:20",
+      "start_index": 1809,
+      "end_time": "01:00:22",
+      "end_index": 1810,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:00:22",
+      "start_index": 1810,
+      "end_time": "01:01:02",
+      "end_index": 1830,
+      "offset": 1820,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1821.png",
+      "title": "Meeting info )"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:01:02",
+      "start_index": 1830,
+      "end_time": "01:01:04",
+      "end_index": 1831,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:01:04",
+      "start_index": 1831,
+      "end_time": "01:01:14",
+      "end_index": 1836,
+      "offset": 1833,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1834.png",
+      "title": "\u20ac > Dennis Personal Room ) Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:01:14",
+      "start_index": 1836,
+      "end_time": "01:01:16",
+      "end_index": 1837,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:01:16",
+      "start_index": 1837,
+      "end_time": "01:01:32",
+      "end_index": 1845,
+      "offset": 1841,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1842.png",
+      "title": "x + Q Personal Room Viewing Sean shared content 100% Customers Seeing True ROI with Adobe: Move scaled production toward full automation Full automation at enterprise quality: true ROI automation in pockets Acceleration capabilities in Production work being done fully manually SAMSUNG \u00ab Adobe @"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:01:32",
+      "start_index": 1845,
+      "end_time": "01:01:34",
+      "end_index": 1846,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:01:34",
+      "start_index": 1846,
+      "end_time": "01:01:38",
+      "end_index": 1848,
+      "offset": 1847,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1848.png",
+      "title": "x Inmeeting-Meeting-We x + \u20ac Q Viewing Sean shared content 100% Customers Seeing True ROI with Adobe: Move scaled production toward full automation Full automation at enterprise quality: true ROI automation in pockets Acceleration capabilities in Production work being done fully manually SAMSUNG \u00ab Adobe @"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:01:38",
+      "start_index": 1848,
+      "end_time": "01:01:40",
+      "end_index": 1849,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:01:40",
+      "start_index": 1849,
+      "end_time": "01:01:48",
+      "end_index": 1853,
+      "offset": 1851,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1852.png",
+      "title": "M con Personal Room"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:01:48",
+      "start_index": 1853,
+      "end_time": "01:02:36",
+      "end_index": 1877,
+      "offset": 1865,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1866.png",
+      "title": "Dennis Personal fo ) @ Meeting info Viewing Sean shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:02:36",
+      "start_index": 1877,
+      "end_time": "01:02:38",
+      "end_index": 1878,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:02:38",
+      "start_index": 1878,
+      "end_time": "01:02:42",
+      "end_index": 1880,
+      "offset": 1879,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1880.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:02:42",
+      "start_index": 1880,
+      "end_time": "01:02:44",
+      "end_index": 1881,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:02:44",
+      "start_index": 1881,
+      "end_time": "01:02:46",
+      "end_index": 1882,
+      "offset": 1881,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1882.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:02:46",
+      "start_index": 1882,
+      "end_time": "01:02:48",
+      "end_index": 1883,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:02:48",
+      "start_index": 1883,
+      "end_time": "01:02:58",
+      "end_index": 1888,
+      "offset": 1885,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1886.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:02:58",
+      "start_index": 1888,
+      "end_time": "01:03:04",
+      "end_index": 1891,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:03:04",
+      "start_index": 1891,
+      "end_time": "01:03:06",
+      "end_index": 1892,
+      "offset": 1891,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1892.png",
+      "title": "Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:03:06",
+      "start_index": 1892,
+      "end_time": "01:03:14",
+      "end_index": 1896,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:03:14",
+      "start_index": 1896,
+      "end_time": "01:03:16",
+      "end_index": 1897,
+      "offset": 1896,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1897.png",
+      "title": "Dennis Personal Room @ (@ Meeting info ) Viewing Sean shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:03:16",
+      "start_index": 1897,
+      "end_time": "01:03:20",
+      "end_index": 1899,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:03:20",
+      "start_index": 1899,
+      "end_time": "01:03:46",
+      "end_index": 1912,
+      "offset": 1905,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1906.png",
+      "title": "| x +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:03:46",
+      "start_index": 1912,
+      "end_time": "01:03:50",
+      "end_index": 1914,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:03:50",
+      "start_index": 1914,
+      "end_time": "01:03:52",
+      "end_index": 1915,
+      "offset": 1914,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1915.png",
+      "title": "| x +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:03:52",
+      "start_index": 1915,
+      "end_time": "01:03:54",
+      "end_index": 1916,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:03:54",
+      "start_index": 1916,
+      "end_time": "01:03:56",
+      "end_index": 1917,
+      "offset": 1916,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1917.png",
+      "title": "| x +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:03:56",
+      "start_index": 1917,
+      "end_time": "01:04:06",
+      "end_index": 1922,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:04:06",
+      "start_index": 1922,
+      "end_time": "01:04:10",
+      "end_index": 1924,
+      "offset": 1923,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1924.png",
+      "title": "Dennis Personal Room (@ Meeting info )"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:04:10",
+      "start_index": 1924,
+      "end_time": "01:04:14",
+      "end_index": 1926,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:04:14",
+      "start_index": 1926,
+      "end_time": "01:04:16",
+      "end_index": 1927,
+      "offset": 1926,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1927.png",
+      "title": "Dennis Personal Room Meeting info )"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:04:16",
+      "start_index": 1927,
+      "end_time": "01:04:46",
+      "end_index": 1942,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:04:46",
+      "start_index": 1942,
+      "end_time": "01:04:48",
+      "end_index": 1943,
+      "offset": 1942,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1943.png",
+      "title": "| x +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:04:48",
+      "start_index": 1943,
+      "end_time": "01:04:50",
+      "end_index": 1944,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:04:50",
+      "start_index": 1944,
+      "end_time": "01:04:52",
+      "end_index": 1945,
+      "offset": 1944,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1945.png",
+      "title": "| x +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:04:52",
+      "start_index": 1945,
+      "end_time": "01:05:14",
+      "end_index": 1956,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:05:14",
+      "start_index": 1956,
+      "end_time": "01:05:20",
+      "end_index": 1959,
+      "offset": 1957,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1958.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:05:20",
+      "start_index": 1959,
+      "end_time": "01:05:34",
+      "end_index": 1966,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:05:34",
+      "start_index": 1966,
+      "end_time": "01:05:38",
+      "end_index": 1968,
+      "offset": 1967,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1968.png",
+      "title": "Dennis Personal Meeting"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:05:38",
+      "start_index": 1968,
+      "end_time": "01:05:44",
+      "end_index": 1971,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:05:44",
+      "start_index": 1971,
+      "end_time": "01:06:40",
+      "end_index": 1999,
+      "offset": 1985,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-1986.png",
+      "title": "x @ + Q"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:06:40",
+      "start_index": 1999,
+      "end_time": "01:06:44",
+      "end_index": 2001,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:06:44",
+      "start_index": 2001,
+      "end_time": "01:06:58",
+      "end_index": 2008,
+      "offset": 2004,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2005.png",
+      "title": "\u20ac Personal Room Viewing Sean shared content Creating edit and resizing workflows with ease Input: Drag and drop 10+ hero images that represent your creative vision to train the Ai model Workflow automation: Unlock multi-step, multi-model use cases across Adobe Firefly and 3rd party Al tools in one workflow Replicate one hero workflow across brands, teams and asset types = Output: Thousands of campaign-ready assets Creative Lower hand Share"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:06:58",
+      "start_index": 2008,
+      "end_time": "01:07:00",
+      "end_index": 2009,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:07:00",
+      "start_index": 2009,
+      "end_time": "01:07:36",
+      "end_index": 2027,
+      "offset": 2018,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2019.png",
+      "title": "| x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:07:36",
+      "start_index": 2027,
+      "end_time": "01:07:38",
+      "end_index": 2028,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:07:38",
+      "start_index": 2028,
+      "end_time": "01:08:32",
+      "end_index": 2055,
+      "offset": 2041,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2042.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:08:32",
+      "start_index": 2055,
+      "end_time": "01:08:34",
+      "end_index": 2056,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:08:34",
+      "start_index": 2056,
+      "end_time": "01:09:00",
+      "end_index": 2069,
+      "offset": 2062,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2063.png",
+      "title": "Layout ) Meeting info )"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:09:00",
+      "start_index": 2069,
+      "end_time": "01:09:02",
+      "end_index": 2070,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:09:02",
+      "start_index": 2070,
+      "end_time": "01:09:10",
+      "end_index": 2074,
+      "offset": 2072,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2073.png",
+      "title": "\u20ac Q Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:09:10",
+      "start_index": 2074,
+      "end_time": "01:09:12",
+      "end_index": 2075,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:09:12",
+      "start_index": 2075,
+      "end_time": "01:09:26",
+      "end_index": 2082,
+      "offset": 2078,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2079.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:09:26",
+      "start_index": 2082,
+      "end_time": "01:09:28",
+      "end_index": 2083,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:09:28",
+      "start_index": 2083,
+      "end_time": "01:09:32",
+      "end_index": 2085,
+      "offset": 2084,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2085.png",
+      "title": "\u20ac Q Dennis Personal Room @ Meeting info )"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:09:32",
+      "start_index": 2085,
+      "end_time": "01:09:34",
+      "end_index": 2086,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:09:34",
+      "start_index": 2086,
+      "end_time": "01:10:52",
+      "end_index": 2125,
+      "offset": 2105,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2106.png",
+      "title": "| x +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:10:52",
+      "start_index": 2125,
+      "end_time": "01:10:54",
+      "end_index": 2126,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:10:54",
+      "start_index": 2126,
+      "end_time": "01:11:26",
+      "end_index": 2142,
+      "offset": 2134,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2135.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:11:26",
+      "start_index": 2142,
+      "end_time": "01:11:32",
+      "end_index": 2145,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:11:32",
+      "start_index": 2145,
+      "end_time": "01:11:50",
+      "end_index": 2154,
+      "offset": 2149,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2150.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:11:50",
+      "start_index": 2154,
+      "end_time": "01:12:04",
+      "end_index": 2161,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:12:04",
+      "start_index": 2161,
+      "end_time": "01:12:06",
+      "end_index": 2162,
+      "offset": 2161,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2162.png",
+      "title": "| @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:12:06",
+      "start_index": 2162,
+      "end_time": "01:12:34",
+      "end_index": 2176,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:12:34",
+      "start_index": 2176,
+      "end_time": "01:12:54",
+      "end_index": 2186,
+      "offset": 2181,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2182.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:12:54",
+      "start_index": 2186,
+      "end_time": "01:12:56",
+      "end_index": 2187,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:12:56",
+      "start_index": 2187,
+      "end_time": "01:13:14",
+      "end_index": 2196,
+      "offset": 2191,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2192.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:13:14",
+      "start_index": 2196,
+      "end_time": "01:13:16",
+      "end_index": 2197,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:13:16",
+      "start_index": 2197,
+      "end_time": "01:13:22",
+      "end_index": 2200,
+      "offset": 2198,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2199.png",
+      "title": "Dennis Itkin's Personal Room @ Meeting info )"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:13:22",
+      "start_index": 2200,
+      "end_time": "01:13:24",
+      "end_index": 2201,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:13:24",
+      "start_index": 2201,
+      "end_time": "01:13:32",
+      "end_index": 2205,
+      "offset": 2203,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2204.png",
+      "title": "Dennis Personal Room @ Meeting info )"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:13:32",
+      "start_index": 2205,
+      "end_time": "01:13:34",
+      "end_index": 2206,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:13:34",
+      "start_index": 2206,
+      "end_time": "01:14:42",
+      "end_index": 2240,
+      "offset": 2223,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2224.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:14:42",
+      "start_index": 2240,
+      "end_time": "01:14:44",
+      "end_index": 2241,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:14:44",
+      "start_index": 2241,
+      "end_time": "01:14:46",
+      "end_index": 2242,
+      "offset": 2241,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2242.png",
+      "title": "| x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:14:46",
+      "start_index": 2242,
+      "end_time": "01:14:50",
+      "end_index": 2244,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:14:50",
+      "start_index": 2244,
+      "end_time": "01:15:34",
+      "end_index": 2266,
+      "offset": 2255,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2256.png",
+      "title": "\u20ac Dennis Itkin's Personal Room @ Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:15:34",
+      "start_index": 2266,
+      "end_time": "01:15:36",
+      "end_index": 2267,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:15:36",
+      "start_index": 2267,
+      "end_time": "01:15:54",
+      "end_index": 2276,
+      "offset": 2271,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2272.png",
+      "title": "\u20ac Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:15:54",
+      "start_index": 2276,
+      "end_time": "01:15:56",
+      "end_index": 2277,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:15:56",
+      "start_index": 2277,
+      "end_time": "01:16:14",
+      "end_index": 2286,
+      "offset": 2281,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2282.png",
+      "title": "\u20ac Q Emi Dennis Personal Room ) Meeting info )"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:16:14",
+      "start_index": 2286,
+      "end_time": "01:16:18",
+      "end_index": 2288,
+      "offset": 2287,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2288.png",
+      "title": ") Meeting info )"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:16:18",
+      "start_index": 2288,
+      "end_time": "01:16:20",
+      "end_index": 2289,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:16:20",
+      "start_index": 2289,
+      "end_time": "01:16:22",
+      "end_index": 2290,
+      "offset": 2289,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2290.png",
+      "title": "Dennis Personal Room ) Meeting info )"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:16:22",
+      "start_index": 2290,
+      "end_time": "01:16:24",
+      "end_index": 2291,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:16:24",
+      "start_index": 2291,
+      "end_time": "01:16:40",
+      "end_index": 2299,
+      "offset": 2295,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2296.png",
+      "title": "Layout ) Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:16:40",
+      "start_index": 2299,
+      "end_time": "01:16:42",
+      "end_index": 2300,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:16:42",
+      "start_index": 2300,
+      "end_time": "01:16:44",
+      "end_index": 2301,
+      "offset": 2300,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2301.png",
+      "title": "@ O con"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:16:44",
+      "start_index": 2301,
+      "end_time": "01:16:52",
+      "end_index": 2305,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:16:52",
+      "start_index": 2305,
+      "end_time": "01:16:54",
+      "end_index": 2306,
+      "offset": 2305,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2306.png",
+      "title": "Dennis Personal Room Meeting info ) Viewing Adrienne shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:16:54",
+      "start_index": 2306,
+      "end_time": "01:16:56",
+      "end_index": 2307,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:16:56",
+      "start_index": 2307,
+      "end_time": "01:17:16",
+      "end_index": 2317,
+      "offset": 2312,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2313.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:17:16",
+      "start_index": 2317,
+      "end_time": "01:17:18",
+      "end_index": 2318,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:17:18",
+      "start_index": 2318,
+      "end_time": "01:17:20",
+      "end_index": 2319,
+      "offset": 2318,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2319.png",
+      "title": "Personal Room Meeting info ) Viewing Adrienne shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:17:20",
+      "start_index": 2319,
+      "end_time": "01:17:28",
+      "end_index": 2323,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:17:28",
+      "start_index": 2323,
+      "end_time": "01:17:32",
+      "end_index": 2325,
+      "offset": 2324,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2325.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:17:32",
+      "start_index": 2325,
+      "end_time": "01:17:44",
+      "end_index": 2331,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:17:44",
+      "start_index": 2331,
+      "end_time": "01:17:46",
+      "end_index": 2332,
+      "offset": 2331,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2332.png",
+      "title": "Dennis Personal Room Meeting info ) Viewing Adrienne shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:17:46",
+      "start_index": 2332,
+      "end_time": "01:18:06",
+      "end_index": 2342,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:18:06",
+      "start_index": 2342,
+      "end_time": "01:18:08",
+      "end_index": 2343,
+      "offset": 2342,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2343.png",
+      "title": "Dennis Personal Room ) Meeting info Adrienne shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:18:08",
+      "start_index": 2343,
+      "end_time": "01:18:48",
+      "end_index": 2363,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:18:48",
+      "start_index": 2363,
+      "end_time": "01:18:50",
+      "end_index": 2364,
+      "offset": 2363,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2364.png",
+      "title": "Viewing Adrienne shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:18:50",
+      "start_index": 2364,
+      "end_time": "01:19:30",
+      "end_index": 2384,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:19:30",
+      "start_index": 2384,
+      "end_time": "01:19:32",
+      "end_index": 2385,
+      "offset": 2384,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2385.png",
+      "title": "Viewing Adrienne shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:19:32",
+      "start_index": 2385,
+      "end_time": "01:19:34",
+      "end_index": 2386,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:19:34",
+      "start_index": 2386,
+      "end_time": "01:19:36",
+      "end_index": 2387,
+      "offset": 2386,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2387.png",
+      "title": "Adrienne shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:19:36",
+      "start_index": 2387,
+      "end_time": "01:20:46",
+      "end_index": 2422,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:20:46",
+      "start_index": 2422,
+      "end_time": "01:20:48",
+      "end_index": 2423,
+      "offset": 2422,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2423.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:20:48",
+      "start_index": 2423,
+      "end_time": "01:21:02",
+      "end_index": 2430,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:21:02",
+      "start_index": 2430,
+      "end_time": "01:21:04",
+      "end_index": 2431,
+      "offset": 2430,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2431.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:21:04",
+      "start_index": 2431,
+      "end_time": "01:21:30",
+      "end_index": 2444,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:21:30",
+      "start_index": 2444,
+      "end_time": "01:21:32",
+      "end_index": 2445,
+      "offset": 2444,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2445.png",
+      "title": "@ Meeting info ) Viewing Adrienne shared content 100%"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:21:32",
+      "start_index": 2445,
+      "end_time": "01:21:46",
+      "end_index": 2452,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:21:46",
+      "start_index": 2452,
+      "end_time": "01:21:48",
+      "end_index": 2453,
+      "offset": 2452,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2453.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:21:48",
+      "start_index": 2453,
+      "end_time": "01:22:26",
+      "end_index": 2472,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:22:26",
+      "start_index": 2472,
+      "end_time": "01:22:28",
+      "end_index": 2473,
+      "offset": 2472,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2473.png",
+      "title": "Q Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:22:28",
+      "start_index": 2473,
+      "end_time": "01:22:54",
+      "end_index": 2486,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:22:54",
+      "start_index": 2486,
+      "end_time": "01:22:56",
+      "end_index": 2487,
+      "offset": 2486,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2487.png",
+      "title": "\u20ac Q Room ( Fueled by signals coming from the entire content supply chain Creative Artifacts (brand kits, guidelines, approved assets) Vamsi (Adobe) \u00a9 Unverified CONTINUOUS | Marketing Artifacts (layered templates, design guidelines) LEARNING (cempaign briefs, products, personas) Performance Insights Artifacts (historical, current trends, learnings) (claims, trademarks, license rights) \u00a9"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:22:56",
+      "start_index": 2487,
+      "end_time": "01:23:08",
+      "end_index": 2493,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:23:08",
+      "start_index": 2493,
+      "end_time": "01:23:12",
+      "end_index": 2495,
+      "offset": 2494,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2495.png",
+      "title": "Dennis Room Adrienne shared content (Adobe) Unverified Unverified"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:23:12",
+      "start_index": 2495,
+      "end_time": "01:23:26",
+      "end_index": 2502,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:23:26",
+      "start_index": 2502,
+      "end_time": "01:23:28",
+      "end_index": 2503,
+      "offset": 2502,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2503.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:23:28",
+      "start_index": 2503,
+      "end_time": "01:23:30",
+      "end_index": 2504,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:23:30",
+      "start_index": 2504,
+      "end_time": "01:23:34",
+      "end_index": 2506,
+      "offset": 2505,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2506.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:23:34",
+      "start_index": 2506,
+      "end_time": "01:23:38",
+      "end_index": 2508,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:23:38",
+      "start_index": 2508,
+      "end_time": "01:23:40",
+      "end_index": 2509,
+      "offset": 2508,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2509.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:23:40",
+      "start_index": 2509,
+      "end_time": "01:23:42",
+      "end_index": 2510,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:23:42",
+      "start_index": 2510,
+      "end_time": "01:23:48",
+      "end_index": 2513,
+      "offset": 2511,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2512.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:23:48",
+      "start_index": 2513,
+      "end_time": "01:23:52",
+      "end_index": 2515,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:23:52",
+      "start_index": 2515,
+      "end_time": "01:24:00",
+      "end_index": 2519,
+      "offset": 2517,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2518.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:24:00",
+      "start_index": 2519,
+      "end_time": "01:24:42",
+      "end_index": 2540,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:24:42",
+      "start_index": 2540,
+      "end_time": "01:24:44",
+      "end_index": 2541,
+      "offset": 2540,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2541.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:24:44",
+      "start_index": 2541,
+      "end_time": "01:24:52",
+      "end_index": 2545,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:24:52",
+      "start_index": 2545,
+      "end_time": "01:24:54",
+      "end_index": 2546,
+      "offset": 2545,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2546.png",
+      "title": "Dennis Room @"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:24:54",
+      "start_index": 2546,
+      "end_time": "01:25:06",
+      "end_index": 2552,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:25:06",
+      "start_index": 2552,
+      "end_time": "01:25:08",
+      "end_index": 2553,
+      "offset": 2552,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2553.png",
+      "title": "Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:25:08",
+      "start_index": 2553,
+      "end_time": "01:25:10",
+      "end_index": 2554,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:25:10",
+      "start_index": 2554,
+      "end_time": "01:25:12",
+      "end_index": 2555,
+      "offset": 2554,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2555.png",
+      "title": "Dennis Personal Room Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:25:12",
+      "start_index": 2555,
+      "end_time": "01:25:38",
+      "end_index": 2568,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:25:38",
+      "start_index": 2568,
+      "end_time": "01:25:40",
+      "end_index": 2569,
+      "offset": 2568,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2569.png",
+      "title": "| x +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:25:40",
+      "start_index": 2569,
+      "end_time": "01:25:42",
+      "end_index": 2570,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:25:42",
+      "start_index": 2570,
+      "end_time": "01:25:46",
+      "end_index": 2572,
+      "offset": 2571,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2572.png",
+      "title": "Dennis Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:25:46",
+      "start_index": 2572,
+      "end_time": "01:25:48",
+      "end_index": 2573,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:25:48",
+      "start_index": 2573,
+      "end_time": "01:25:52",
+      "end_index": 2575,
+      "offset": 2574,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2575.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:25:52",
+      "start_index": 2575,
+      "end_time": "01:25:56",
+      "end_index": 2577,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:25:56",
+      "start_index": 2577,
+      "end_time": "01:25:58",
+      "end_index": 2578,
+      "offset": 2577,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2578.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:25:58",
+      "start_index": 2578,
+      "end_time": "01:26:10",
+      "end_index": 2584,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:26:10",
+      "start_index": 2584,
+      "end_time": "01:26:12",
+      "end_index": 2585,
+      "offset": 2584,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2585.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:26:12",
+      "start_index": 2585,
+      "end_time": "01:26:42",
+      "end_index": 2600,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:26:42",
+      "start_index": 2600,
+      "end_time": "01:26:46",
+      "end_index": 2602,
+      "offset": 2601,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2602.png",
+      "title": "Meeting info )"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:26:46",
+      "start_index": 2602,
+      "end_time": "01:26:52",
+      "end_index": 2605,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:26:52",
+      "start_index": 2605,
+      "end_time": "01:26:58",
+      "end_index": 2608,
+      "offset": 2606,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2607.png",
+      "title": "Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:26:58",
+      "start_index": 2608,
+      "end_time": "01:27:00",
+      "end_index": 2609,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:27:00",
+      "start_index": 2609,
+      "end_time": "01:27:02",
+      "end_index": 2610,
+      "offset": 2609,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2610.png",
+      "title": "| x +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:27:02",
+      "start_index": 2610,
+      "end_time": "01:27:06",
+      "end_index": 2612,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:27:06",
+      "start_index": 2612,
+      "end_time": "01:27:08",
+      "end_index": 2613,
+      "offset": 2612,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2613.png",
+      "title": "| x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:27:08",
+      "start_index": 2613,
+      "end_time": "01:27:16",
+      "end_index": 2617,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:27:16",
+      "start_index": 2617,
+      "end_time": "01:27:18",
+      "end_index": 2618,
+      "offset": 2617,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2618.png",
+      "title": "| x +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:27:18",
+      "start_index": 2618,
+      "end_time": "01:27:34",
+      "end_index": 2626,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:27:34",
+      "start_index": 2626,
+      "end_time": "01:27:36",
+      "end_index": 2627,
+      "offset": 2626,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2627.png",
+      "title": "Q Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:27:36",
+      "start_index": 2627,
+      "end_time": "01:28:10",
+      "end_index": 2644,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:28:10",
+      "start_index": 2644,
+      "end_time": "01:28:12",
+      "end_index": 2645,
+      "offset": 2644,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2645.png",
+      "title": "| x +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:28:12",
+      "start_index": 2645,
+      "end_time": "01:28:24",
+      "end_index": 2651,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:28:24",
+      "start_index": 2651,
+      "end_time": "01:28:26",
+      "end_index": 2652,
+      "offset": 2651,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2652.png",
+      "title": "Q Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:28:26",
+      "start_index": 2652,
+      "end_time": "01:28:40",
+      "end_index": 2659,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:28:40",
+      "start_index": 2659,
+      "end_time": "01:28:48",
+      "end_index": 2663,
+      "offset": 2661,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2662.png",
+      "title": "| x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:28:48",
+      "start_index": 2663,
+      "end_time": "01:28:52",
+      "end_index": 2665,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:28:52",
+      "start_index": 2665,
+      "end_time": "01:28:54",
+      "end_index": 2666,
+      "offset": 2665,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2666.png",
+      "title": "| x @ +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:28:54",
+      "start_index": 2666,
+      "end_time": "01:29:02",
+      "end_index": 2670,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:29:02",
+      "start_index": 2670,
+      "end_time": "01:29:06",
+      "end_index": 2672,
+      "offset": 2671,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2672.png",
+      "title": "Layout ) Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:29:06",
+      "start_index": 2672,
+      "end_time": "01:29:30",
+      "end_index": 2684,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:29:30",
+      "start_index": 2684,
+      "end_time": "01:29:32",
+      "end_index": 2685,
+      "offset": 2684,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2685.png",
+      "title": "| x \u00a9 x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:29:32",
+      "start_index": 2685,
+      "end_time": "01:29:38",
+      "end_index": 2688,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:29:38",
+      "start_index": 2688,
+      "end_time": "01:30:10",
+      "end_index": 2704,
+      "offset": 2696,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2697.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:30:10",
+      "start_index": 2704,
+      "end_time": "01:30:12",
+      "end_index": 2705,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:30:12",
+      "start_index": 2705,
+      "end_time": "01:30:34",
+      "end_index": 2716,
+      "offset": 2710,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2711.png",
+      "title": ""
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:30:34",
+      "start_index": 2716,
+      "end_time": "01:30:36",
+      "end_index": 2717,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:30:36",
+      "start_index": 2717,
+      "end_time": "01:30:46",
+      "end_index": 2722,
+      "offset": 2719,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2720.png",
+      "title": "Q Hudson @ ) Meeting info"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:30:46",
+      "start_index": 2722,
+      "end_time": "01:30:48",
+      "end_index": 2723,
+      "offset": 2722,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2723.png",
+      "title": "x + Q Dennis Personal Room ) Meeting info Viewing Cecily shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:30:48",
+      "start_index": 2723,
+      "end_time": "01:30:50",
+      "end_index": 2724,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:30:50",
+      "start_index": 2724,
+      "end_time": "01:32:06",
+      "end_index": 2762,
+      "offset": 2743,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2744.png",
+      "title": "e Reinaldo x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:32:06",
+      "start_index": 2762,
+      "end_time": "01:32:16",
+      "end_index": 2767,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:32:16",
+      "start_index": 2767,
+      "end_time": "01:32:22",
+      "end_index": 2770,
+      "offset": 2768,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2769.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:32:22",
+      "start_index": 2770,
+      "end_time": "01:32:50",
+      "end_index": 2784,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:32:50",
+      "start_index": 2784,
+      "end_time": "01:32:52",
+      "end_index": 2785,
+      "offset": 2784,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2785.png",
+      "title": "| @ x +"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:32:52",
+      "start_index": 2785,
+      "end_time": "01:32:58",
+      "end_index": 2788,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:32:58",
+      "start_index": 2788,
+      "end_time": "01:33:00",
+      "end_index": 2789,
+      "offset": 2788,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2789.png",
+      "title": "- Reinaldo"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:33:00",
+      "start_index": 2789,
+      "end_time": "01:33:22",
+      "end_index": 2800,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:33:22",
+      "start_index": 2800,
+      "end_time": "01:33:24",
+      "end_index": 2801,
+      "offset": 2800,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2801.png",
+      "title": "Q Layout ) Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:33:24",
+      "start_index": 2801,
+      "end_time": "01:33:28",
+      "end_index": 2803,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:33:28",
+      "start_index": 2803,
+      "end_time": "01:33:36",
+      "end_index": 2807,
+      "offset": 2805,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2806.png",
+      "title": "Dennis Itkin's Personal Room Layout Meeting info Viewing shared"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:33:36",
+      "start_index": 2807,
+      "end_time": "01:34:12",
+      "end_index": 2825,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:34:12",
+      "start_index": 2825,
+      "end_time": "01:34:14",
+      "end_index": 2826,
+      "offset": 2825,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2826.png",
+      "title": "\u20ac Q Dennis Itkin's Personal Room @ Meeting info Viewing shared 100%"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:34:14",
+      "start_index": 2826,
+      "end_time": "01:35:02",
+      "end_index": 2850,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:35:02",
+      "start_index": 2850,
+      "end_time": "01:35:10",
+      "end_index": 2854,
+      "offset": 2852,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2853.png",
+      "title": "Dennis Personal Room Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:35:10",
+      "start_index": 2854,
+      "end_time": "01:35:18",
+      "end_index": 2858,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:35:18",
+      "start_index": 2858,
+      "end_time": "01:36:36",
+      "end_index": 2897,
+      "offset": 2877,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2878.png",
+      "title": "x @ +"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:36:36",
+      "start_index": 2897,
+      "end_time": "01:37:42",
+      "end_index": 2930,
+      "offset": 2913,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2914.png",
+      "title": "Meeting info"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:37:42",
+      "start_index": 2930,
+      "end_time": "01:38:02",
+      "end_index": 2940,
+      "offset": 2935,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2936.png",
+      "title": "Meeting info ) Viewing shared content"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:38:02",
+      "start_index": 2940,
+      "end_time": "01:40:00",
+      "end_index": 2999,
+      "offset": 2969,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-2970.png",
+      "title": "Meeting info"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:40:00",
+      "start_index": 2999,
+      "end_time": "01:41:04",
+      "end_index": 3031,
+      "offset": 3015,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-3016.png",
+      "title": "Meeting info )"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:41:04",
+      "start_index": 3031,
+      "end_time": "01:43:46",
+      "end_index": 3112,
+      "offset": 3071,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-3072.png",
+      "title": "Q Layout Meeting info"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:43:46",
+      "start_index": 3112,
+      "end_time": "01:44:28",
+      "end_index": 3133,
+      "offset": 3122,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-3123.png",
+      "title": "Q Dennis Itkin's Personal Room @ \u00ae Meeting info Viewing shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:44:28",
+      "start_index": 3133,
+      "end_time": "01:44:34",
+      "end_index": 3136,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:44:34",
+      "start_index": 3136,
+      "end_time": "01:44:36",
+      "end_index": 3137,
+      "offset": 3136,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-3137.png",
+      "title": "O O sso O con Dennis Personal Room @ Meeting info Viewing shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:44:36",
+      "start_index": 3137,
+      "end_time": "01:44:48",
+      "end_index": 3143,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:44:48",
+      "start_index": 3143,
+      "end_time": "01:44:50",
+      "end_index": 3144,
+      "offset": 3143,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-3144.png",
+      "title": "O O con Dennis Itkin's Personal Room Layout \u00ae Meeting info Viewing shared content 100%"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:44:50",
+      "start_index": 3144,
+      "end_time": "01:45:00",
+      "end_index": 3149,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:45:00",
+      "start_index": 3149,
+      "end_time": "01:45:04",
+      "end_index": 3151,
+      "offset": 3150,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-3151.png",
+      "title": "Dennis Personal Room Layout ) Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:45:04",
+      "start_index": 3151,
+      "end_time": "01:45:10",
+      "end_index": 3154,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:45:10",
+      "start_index": 3154,
+      "end_time": "01:45:14",
+      "end_index": 3156,
+      "offset": 3155,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-3156.png",
+      "title": "Layout ) Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:45:14",
+      "start_index": 3156,
+      "end_time": "01:45:40",
+      "end_index": 3169,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:45:40",
+      "start_index": 3169,
+      "end_time": "01:45:46",
+      "end_index": 3172,
+      "offset": 3170,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-3171.png",
+      "title": "Nani- x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:45:46",
+      "start_index": 3172,
+      "end_time": "01:45:48",
+      "end_index": 3173,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:45:48",
+      "start_index": 3173,
+      "end_time": "01:46:12",
+      "end_index": 3185,
+      "offset": 3179,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-3180.png",
+      "title": "con Dennis Itkin's Personal Room ) Meeting info Viewing shared content 100%"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:46:12",
+      "start_index": 3185,
+      "end_time": "01:48:00",
+      "end_index": 3239,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:48:00",
+      "start_index": 3239,
+      "end_time": "01:48:04",
+      "end_index": 3241,
+      "offset": 3240,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-3241.png",
+      "title": "\u20ac Q (@ Meeting info Viewing shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:48:04",
+      "start_index": 3241,
+      "end_time": "01:48:08",
+      "end_index": 3243,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:48:08",
+      "start_index": 3243,
+      "end_time": "01:48:16",
+      "end_index": 3247,
+      "offset": 3245,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-3246.png",
+      "title": "O con Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:48:16",
+      "start_index": 3247,
+      "end_time": "01:51:28",
+      "end_index": 3343,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:51:28",
+      "start_index": 3343,
+      "end_time": "01:51:34",
+      "end_index": 3346,
+      "offset": 3344,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-3345.png",
+      "title": "B con Hudson ) Viewing shared 100%"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:51:34",
+      "start_index": 3346,
+      "end_time": "01:51:36",
+      "end_index": 3347,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:51:36",
+      "start_index": 3347,
+      "end_time": "01:51:50",
+      "end_index": 3354,
+      "offset": 3350,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-3351.png",
+      "title": "\u2018Speaking: Andy Meeting info"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:51:50",
+      "start_index": 3354,
+      "end_time": "01:55:08",
+      "end_index": 3453,
+      "offset": 3403,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-3404.png",
+      "title": "Dennis Personal @ Meeting"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:55:08",
+      "start_index": 3453,
+      "end_time": "01:56:04",
+      "end_index": 3481,
+      "offset": 3467,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-3468.png",
+      "title": "Dennis Personal Room Meeting"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:56:04",
+      "start_index": 3481,
+      "end_time": "02:16:14",
+      "end_index": 4086,
+      "offset": 3783,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-3784.png",
+      "title": "Dennis Personal \u00a9 ) Meeting info"
+    },
+    {
+      "type": "slide",
+      "start_time": "02:16:14",
+      "start_index": 4086,
+      "end_time": "02:23:40",
+      "end_index": 4309,
+      "offset": 4197,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-4198.png",
+      "title": ") Meeting info Chat x >"
+    },
+    {
+      "type": "slide",
+      "start_time": "02:23:40",
+      "start_index": 4309,
+      "end_time": "02:24:42",
+      "end_index": 4340,
+      "offset": 4324,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-4325.png",
+      "title": "Meeting info"
+    },
+    {
+      "type": "slide",
+      "start_time": "02:24:42",
+      "start_index": 4340,
+      "end_time": "02:26:52",
+      "end_index": 4405,
+      "offset": 4372,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-4373.png",
+      "title": "governance analysis as: healthcheck audience or hygiene?"
+    },
+    {
+      "type": "slide",
+      "start_time": "02:26:52",
+      "start_index": 4405,
+      "end_time": "02:28:28",
+      "end_index": 4453,
+      "offset": 4429,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-4430.png",
+      "title": "We Dennis Itkin's Personal Room @ \u00ae Meeting info iPhone Microphone is Tara Chaves Vamsi (Adobe) available as a"
+    },
+    {
+      "type": "slide",
+      "start_time": "02:28:28",
+      "start_index": 4453,
+      "end_time": "02:29:50",
+      "end_index": 4494,
+      "offset": 4473,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-4474.png",
+      "title": "O O Dennis Itkin's Personal Room @ \u00ae Meeting info iPhone Microphone x Tara Chaves Vamsi (Adobe) available as a microphone. Unverified \u00a9 the Viewing Shelley's shared content"
+    },
+    {
+      "type": "slide",
+      "start_time": "02:29:50",
+      "start_index": 4494,
+      "end_time": "02:31:58",
+      "end_index": 4558,
+      "offset": 4526,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-4527.png",
+      "title": "Dennis Itkin's Personal Room \u00ae Meeting info iPhone Microphone x Tara Chaves Vamsi (Adobe) available as a microphone. Unverified = after the meeting. Viewing Shelley's shared content 100%"
+    },
+    {
+      "type": "slide",
+      "start_time": "02:31:58",
+      "start_index": 4558,
+      "end_time": "02:33:06",
+      "end_index": 4592,
+      "offset": 4575,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-4576.png",
+      "title": "Layout"
+    },
+    {
+      "type": "speaker",
+      "start_time": "02:33:06",
+      "start_index": 4592,
+      "end_time": "02:33:34",
+      "end_index": 4606,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "02:33:34",
+      "start_index": 4606,
+      "end_time": "02:33:36",
+      "end_index": 4607,
+      "offset": 4606,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-4607.png",
+      "title": "O con Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "02:33:36",
+      "start_index": 4607,
+      "end_time": "02:33:38",
+      "end_index": 4608,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "02:33:38",
+      "start_index": 4608,
+      "end_time": "02:33:44",
+      "end_index": 4611,
+      "offset": 4609,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-4610.png",
+      "title": "Layout ) Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "02:33:44",
+      "start_index": 4611,
+      "end_time": "02:33:50",
+      "end_index": 4614,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "02:33:50",
+      "start_index": 4614,
+      "end_time": "02:45:14",
+      "end_index": 4956,
+      "offset": 4785,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-4786.png",
+      "title": "O Dennis Itkin's Personal Room @ \u00ae Meeting info Viewing content"
+    },
+    {
+      "type": "slide",
+      "start_time": "02:45:14",
+      "start_index": 4956,
+      "end_time": "02:45:42",
+      "end_index": 4970,
+      "offset": 4963,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-4964.png",
+      "title": "Dennis Personal Room ) Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "02:45:42",
+      "start_index": 4970,
+      "end_time": "02:45:52",
+      "end_index": 4975,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "02:45:52",
+      "start_index": 4975,
+      "end_time": "02:46:12",
+      "end_index": 4985,
+      "offset": 4980,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-4981.png",
+      "title": "\u20ac Q Dennis Itkin's Personal Room @ Layout Meeting info Viewing content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "02:46:12",
+      "start_index": 4985,
+      "end_time": "02:46:22",
+      "end_index": 4990,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "02:46:22",
+      "start_index": 4990,
+      "end_time": "02:47:02",
+      "end_index": 5010,
+      "offset": 5000,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5001.png",
+      "title": "Q Personal Room @ Meeting info Viewing Shelley's shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "02:47:02",
+      "start_index": 5010,
+      "end_time": "02:47:52",
+      "end_index": 5035,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "02:47:52",
+      "start_index": 5035,
+      "end_time": "02:48:02",
+      "end_index": 5040,
+      "offset": 5037,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5038.png",
+      "title": "Q Personal Room @ Meeting info Viewing Shelley's shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "02:48:02",
+      "start_index": 5040,
+      "end_time": "02:48:12",
+      "end_index": 5045,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "02:48:12",
+      "start_index": 5045,
+      "end_time": "02:49:10",
+      "end_index": 5074,
+      "offset": 5059,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5060.png",
+      "title": "Q Personal Room @ Meeting info Viewing Shelley's shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "02:49:10",
+      "start_index": 5074,
+      "end_time": "02:49:12",
+      "end_index": 5075,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "02:49:12",
+      "start_index": 5075,
+      "end_time": "02:49:18",
+      "end_index": 5078,
+      "offset": 5076,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5077.png",
+      "title": "Dennis Personal Room Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "02:49:18",
+      "start_index": 5078,
+      "end_time": "02:49:20",
+      "end_index": 5079,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "02:49:20",
+      "start_index": 5079,
+      "end_time": "02:50:00",
+      "end_index": 5099,
+      "offset": 5089,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5090.png",
+      "title": "Dennis"
+    },
+    {
+      "type": "slide",
+      "start_time": "02:50:00",
+      "start_index": 5099,
+      "end_time": "02:50:18",
+      "end_index": 5108,
+      "offset": 5103,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5104.png",
+      "title": "e @ x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "02:50:18",
+      "start_index": 5108,
+      "end_time": "02:50:30",
+      "end_index": 5114,
+      "offset": 5114,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmp53ej9c4v/hi/thumb-5115.png"
+    }
+  ],
+  "crop": [
+    102,
+    28,
+    1396,
+    872
+  ]
+}

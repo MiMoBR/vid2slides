@@ -1,8 +1,6 @@
 import argparse
 import collections
 import cv2
-from decord import VideoReader
-from decord import cpu
 import glob
 import ffmpeg
 import json
@@ -51,7 +49,7 @@ def log_viterbi(log_B, log_A, log_pi):
         delta = np.max(projected, axis=0) + log_B[t, :]
         phi[t, :] = np.argmax(projected, axis=0)
 
-    q = np.zeros(log_B.shape[0], dtype=np.int)
+    q = np.zeros(log_B.shape[0], dtype=int)
     q[-1] = np.argmax(delta)
     for t in range(log_B.shape[0] - 2, -1, -1):
         q[t] = phi[t + 1, q[t + 1]]
@@ -128,10 +126,9 @@ def extract_frames(video, hi_dir, hi_size, times):
 
     aspect_ratio = w / h
     if aspect_ratio > hi_size[0] / hi_size[1]:
-        # Wide format
-        wo, ho = hi_size[0], int(hi_size[0] // aspect_ratio)
+        wo, ho = min(hi_size[0], w), int(min(hi_size[0], w) // aspect_ratio)
     else:
-        wo, ho = int(hi_size[1] * aspect_ratio), hi_size[1]
+        wo, ho = int(min(hi_size[1], h) * aspect_ratio), min(hi_size[1], h)
 
     framerate = int(info['nb_frames']) / float(info['duration'])
     
@@ -139,14 +136,18 @@ def extract_frames(video, hi_dir, hi_size, times):
     for time in times:
         nframes.append(int(framerate * (2 * (time + 1))))
 
-    vr = VideoReader(video, ctx=cpu(0))
-    nframes = [min(vr._num_frame - 1, x) for x in nframes]
-    frames = vr.get_batch(nframes).asnumpy()
-    
+    cap = cv2.VideoCapture(video)
+    total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
+    nframes = [min(total_frames - 1, x) for x in nframes]
+    raw_frames = []
+    for nf in nframes:
+        cap.set(cv2.CAP_PROP_POS_FRAMES, nf)
+        ret, frame = cap.read()
+        raw_frames.append(frame)
+    cap.release()
+
     for i in range(len(nframes)):
-        frame = frames[i, :, :, :]
-        # Now clear why r and b are mixed up.
-        frame = frame[:, :, np.array([2, 1, 0])]
+        frame = raw_frames[i]
         assert frame.ndim == 3
         assert frame.shape[-1] == 3
         
@@ -198,7 +199,7 @@ def detect_faces(the_dir):
 
 
 def get_delta_images(the_dir, has_face):
-    matching_images = glob.glob(os.path.join(the_dir, 'thumb-*.jpg'))
+    matching_images = sorted(glob.glob(os.path.join(the_dir, 'thumb-*.jpg')))
     nimages = len(matching_images)
     sizes = []
 
@@ -370,8 +371,10 @@ def extract_keyframes_from_video(target, output_json, thumb_dir):
 
             latest_slide['offset'] = offset
 
-            latest_slide['source'] = os.path.join(hi_dir, 
+            latest_slide['source'] = os.path.join(hi_dir,
                 f'thumb-{offset+1:04}.png')
+
+            slides.append(latest_slide)
 
             if num == -1:
                 latest_slide = {
@@ -398,10 +401,15 @@ def extract_keyframes_from_video(target, output_json, thumb_dir):
     slides.append(latest_slide)
     slides = slides[1:]
 
-    offsets = []
+    # Use the midpoint of each slide segment as its representative frame
+    # so every segment gets its own unique frame instead of sharing HMM candidates.
     for slide in slides:
         if slide['type'] == 'slide':
-            offsets.append(slide['offset'])
+            middle = (slide['start_index'] + slide['end_index']) // 2
+            slide['offset'] = middle
+            slide['source'] = os.path.join(hi_dir, f'thumb-{middle+1:04}.png')
+
+    offsets = [s['offset'] for s in slides if s['type'] == 'slide']
 
     extract_frames(target, hi_dir, hi_size, offsets)
     

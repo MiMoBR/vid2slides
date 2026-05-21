@@ -1,0 +1,1654 @@
+{
+  "pip_location": [
+    168.77142857142857,
+    66.94285714285714,
+    27.457142857142856,
+    27.457142857142856
+  ],
+  "sequence": [
+    {
+      "type": "slide",
+      "start_time": "00:00:02",
+      "start_index": 0,
+      "end_time": "00:01:04",
+      "end_index": 31,
+      "offset": 15,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0016.png",
+      "title": "Dennis Itkin's Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:01:04",
+      "start_index": 31,
+      "end_time": "00:02:26",
+      "end_index": 72,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:02:26",
+      "start_index": 72,
+      "end_time": "00:02:30",
+      "end_index": 74,
+      "offset": 73,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0074.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:02:30",
+      "start_index": 74,
+      "end_time": "00:02:36",
+      "end_index": 77,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:02:36",
+      "start_index": 77,
+      "end_time": "00:02:38",
+      "end_index": 78,
+      "offset": 77,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0078.png",
+      "title": "Dennis Personal Room"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:02:38",
+      "start_index": 78,
+      "end_time": "00:02:58",
+      "end_index": 88,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:02:58",
+      "start_index": 88,
+      "end_time": "00:03:02",
+      "end_index": 90,
+      "offset": 89,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0090.png",
+      "title": "Meeting Controls"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:03:02",
+      "start_index": 90,
+      "end_time": "00:03:04",
+      "end_index": 91,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:03:04",
+      "start_index": 91,
+      "end_time": "00:03:08",
+      "end_index": 93,
+      "offset": 92,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0093.png",
+      "title": "Viewing Teresa Lewis shared content \u00a9 Display"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:03:08",
+      "start_index": 93,
+      "end_time": "00:03:44",
+      "end_index": 111,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:03:44",
+      "start_index": 111,
+      "end_time": "00:03:46",
+      "end_index": 112,
+      "offset": 111,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0112.png",
+      "title": "Viewing Teresa Lewis shared content 100%"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:03:46",
+      "start_index": 112,
+      "end_time": "00:04:24",
+      "end_index": 131,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:04:24",
+      "start_index": 131,
+      "end_time": "00:04:30",
+      "end_index": 134,
+      "offset": 132,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0133.png",
+      "title": "Layout Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:04:30",
+      "start_index": 134,
+      "end_time": "00:04:34",
+      "end_index": 136,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:04:34",
+      "start_index": 136,
+      "end_time": "00:04:46",
+      "end_index": 142,
+      "offset": 139,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0140.png",
+      "title": "\u2018Speaking: Teresa Lewis (Adobe) ) Layout Meeting info"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:04:46",
+      "start_index": 142,
+      "end_time": "00:05:22",
+      "end_index": 160,
+      "offset": 151,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0152.png",
+      "title": "Viewing Teresa Lewis shared content 100%"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:05:22",
+      "start_index": 160,
+      "end_time": "00:05:24",
+      "end_index": 161,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:05:24",
+      "start_index": 161,
+      "end_time": "00:05:56",
+      "end_index": 177,
+      "offset": 169,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0170.png",
+      "title": "Dennis Personal Room Layout Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:05:56",
+      "start_index": 177,
+      "end_time": "00:05:58",
+      "end_index": 178,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:05:58",
+      "start_index": 178,
+      "end_time": "00:06:00",
+      "end_index": 179,
+      "offset": 178,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0179.png",
+      "title": "Dennis Personal Room Layout Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:06:00",
+      "start_index": 179,
+      "end_time": "00:06:02",
+      "end_index": 180,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:06:02",
+      "start_index": 180,
+      "end_time": "00:06:04",
+      "end_index": 181,
+      "offset": 180,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0181.png",
+      "title": "Dennis Personal Room Layout Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:06:04",
+      "start_index": 181,
+      "end_time": "00:06:08",
+      "end_index": 183,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:06:08",
+      "start_index": 183,
+      "end_time": "00:06:24",
+      "end_index": 191,
+      "offset": 187,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0188.png",
+      "title": "Dennis Personal Room Layout Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:06:24",
+      "start_index": 191,
+      "end_time": "00:06:30",
+      "end_index": 194,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:06:30",
+      "start_index": 194,
+      "end_time": "00:06:32",
+      "end_index": 195,
+      "offset": 194,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0195.png",
+      "title": "Dennis Layout ) Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:06:32",
+      "start_index": 195,
+      "end_time": "00:06:52",
+      "end_index": 205,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:06:52",
+      "start_index": 205,
+      "end_time": "00:06:54",
+      "end_index": 206,
+      "offset": 205,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0206.png",
+      "title": "Dennis Layout ) Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:06:54",
+      "start_index": 206,
+      "end_time": "00:06:56",
+      "end_index": 207,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:06:56",
+      "start_index": 207,
+      "end_time": "00:07:02",
+      "end_index": 210,
+      "offset": 208,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0209.png",
+      "title": "Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:07:02",
+      "start_index": 210,
+      "end_time": "00:07:04",
+      "end_index": 211,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:07:04",
+      "start_index": 211,
+      "end_time": "00:07:06",
+      "end_index": 212,
+      "offset": 211,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0212.png",
+      "title": "Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:07:06",
+      "start_index": 212,
+      "end_time": "00:07:18",
+      "end_index": 218,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:07:18",
+      "start_index": 218,
+      "end_time": "00:07:20",
+      "end_index": 219,
+      "offset": 218,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0219.png",
+      "title": "Dennis Personal Room Layout ) Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:07:20",
+      "start_index": 219,
+      "end_time": "00:07:32",
+      "end_index": 225,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:07:32",
+      "start_index": 225,
+      "end_time": "00:07:34",
+      "end_index": 226,
+      "offset": 225,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0226.png",
+      "title": "Dennis Personal Room Layout Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:07:34",
+      "start_index": 226,
+      "end_time": "00:07:50",
+      "end_index": 234,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:07:50",
+      "start_index": 234,
+      "end_time": "00:07:52",
+      "end_index": 235,
+      "offset": 234,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0235.png",
+      "title": "Dennis Personal Room Layout Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:07:52",
+      "start_index": 235,
+      "end_time": "00:07:56",
+      "end_index": 237,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:07:56",
+      "start_index": 237,
+      "end_time": "00:07:58",
+      "end_index": 238,
+      "offset": 237,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0238.png",
+      "title": "Dennis Personal Room Layout Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:07:58",
+      "start_index": 238,
+      "end_time": "00:08:12",
+      "end_index": 245,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:08:12",
+      "start_index": 245,
+      "end_time": "00:22:38",
+      "end_index": 678,
+      "offset": 461,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0462.png",
+      "title": "Layout"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:22:38",
+      "start_index": 678,
+      "end_time": "00:22:42",
+      "end_index": 680,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:22:42",
+      "start_index": 680,
+      "end_time": "00:23:12",
+      "end_index": 695,
+      "offset": 687,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0688.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:23:12",
+      "start_index": 695,
+      "end_time": "00:23:14",
+      "end_index": 696,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:23:14",
+      "start_index": 696,
+      "end_time": "00:23:32",
+      "end_index": 705,
+      "offset": 700,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0701.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:23:32",
+      "start_index": 705,
+      "end_time": "00:23:34",
+      "end_index": 706,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:23:34",
+      "start_index": 706,
+      "end_time": "00:23:36",
+      "end_index": 707,
+      "offset": 706,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0707.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:23:36",
+      "start_index": 707,
+      "end_time": "00:23:38",
+      "end_index": 708,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:23:38",
+      "start_index": 708,
+      "end_time": "00:23:40",
+      "end_index": 709,
+      "offset": 708,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0709.png",
+      "title": "Viewing Teresa Lewis (Adobe)'s shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:23:40",
+      "start_index": 709,
+      "end_time": "00:23:50",
+      "end_index": 714,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:23:50",
+      "start_index": 714,
+      "end_time": "00:23:52",
+      "end_index": 715,
+      "offset": 714,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0715.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:23:52",
+      "start_index": 715,
+      "end_time": "00:23:54",
+      "end_index": 716,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:23:54",
+      "start_index": 716,
+      "end_time": "00:24:02",
+      "end_index": 720,
+      "offset": 718,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0719.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:24:02",
+      "start_index": 720,
+      "end_time": "00:24:04",
+      "end_index": 721,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:24:04",
+      "start_index": 721,
+      "end_time": "00:24:08",
+      "end_index": 723,
+      "offset": 722,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0723.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:24:08",
+      "start_index": 723,
+      "end_time": "00:24:10",
+      "end_index": 724,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:24:10",
+      "start_index": 724,
+      "end_time": "00:24:12",
+      "end_index": 725,
+      "offset": 724,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0725.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:24:12",
+      "start_index": 725,
+      "end_time": "00:24:14",
+      "end_index": 726,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:24:14",
+      "start_index": 726,
+      "end_time": "00:24:34",
+      "end_index": 736,
+      "offset": 731,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0732.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:24:34",
+      "start_index": 736,
+      "end_time": "00:24:36",
+      "end_index": 737,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:24:36",
+      "start_index": 737,
+      "end_time": "00:24:42",
+      "end_index": 740,
+      "offset": 738,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0739.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:24:42",
+      "start_index": 740,
+      "end_time": "00:24:48",
+      "end_index": 743,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:24:48",
+      "start_index": 743,
+      "end_time": "00:25:04",
+      "end_index": 751,
+      "offset": 747,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0748.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:25:04",
+      "start_index": 751,
+      "end_time": "00:25:06",
+      "end_index": 752,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:25:06",
+      "start_index": 752,
+      "end_time": "00:25:14",
+      "end_index": 756,
+      "offset": 754,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0755.png",
+      "title": "Enhance asset management & reuse"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:25:14",
+      "start_index": 756,
+      "end_time": "00:25:22",
+      "end_index": 760,
+      "offset": 758,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0759.png",
+      "title": "Enhance asset management & reuse"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:25:22",
+      "start_index": 760,
+      "end_time": "00:25:26",
+      "end_index": 762,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:25:26",
+      "start_index": 762,
+      "end_time": "00:25:30",
+      "end_index": 764,
+      "offset": 763,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0764.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:25:30",
+      "start_index": 764,
+      "end_time": "00:25:32",
+      "end_index": 765,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:25:32",
+      "start_index": 765,
+      "end_time": "00:25:38",
+      "end_index": 768,
+      "offset": 766,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0767.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:25:38",
+      "start_index": 768,
+      "end_time": "00:25:44",
+      "end_index": 771,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:25:44",
+      "start_index": 771,
+      "end_time": "00:25:46",
+      "end_index": 772,
+      "offset": 771,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0772.png",
+      "title": "Reinaldo Nani Unverified"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:25:46",
+      "start_index": 772,
+      "end_time": "00:25:50",
+      "end_index": 774,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:25:50",
+      "start_index": 774,
+      "end_time": "00:25:56",
+      "end_index": 777,
+      "offset": 775,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0776.png",
+      "title": "Viewing Teresa Lewis shared content 100%"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:25:56",
+      "start_index": 777,
+      "end_time": "00:26:04",
+      "end_index": 781,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:26:04",
+      "start_index": 781,
+      "end_time": "00:26:18",
+      "end_index": 788,
+      "offset": 784,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0785.png",
+      "title": "Viewing Teresa Lewis shared content 100%"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:26:18",
+      "start_index": 788,
+      "end_time": "00:26:22",
+      "end_index": 790,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:26:22",
+      "start_index": 790,
+      "end_time": "00:26:24",
+      "end_index": 791,
+      "offset": 790,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0791.png",
+      "title": "Viewing Teresa Lewis shared content 100%"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:26:24",
+      "start_index": 791,
+      "end_time": "00:26:34",
+      "end_index": 796,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:26:34",
+      "start_index": 796,
+      "end_time": "00:27:14",
+      "end_index": 816,
+      "offset": 806,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0807.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:27:14",
+      "start_index": 816,
+      "end_time": "00:27:16",
+      "end_index": 817,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:27:16",
+      "start_index": 817,
+      "end_time": "00:27:34",
+      "end_index": 826,
+      "offset": 821,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0822.png",
+      "title": "Reinaldo Nani"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:27:34",
+      "start_index": 826,
+      "end_time": "00:27:38",
+      "end_index": 828,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:27:38",
+      "start_index": 828,
+      "end_time": "00:27:40",
+      "end_index": 829,
+      "offset": 828,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0829.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:27:40",
+      "start_index": 829,
+      "end_time": "00:27:42",
+      "end_index": 830,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:27:42",
+      "start_index": 830,
+      "end_time": "00:27:56",
+      "end_index": 837,
+      "offset": 833,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0834.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:27:56",
+      "start_index": 837,
+      "end_time": "00:27:58",
+      "end_index": 838,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:27:58",
+      "start_index": 838,
+      "end_time": "00:28:58",
+      "end_index": 868,
+      "offset": 853,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0854.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:28:58",
+      "start_index": 868,
+      "end_time": "00:29:28",
+      "end_index": 883,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:29:28",
+      "start_index": 883,
+      "end_time": "00:29:30",
+      "end_index": 884,
+      "offset": 883,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0884.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:29:30",
+      "start_index": 884,
+      "end_time": "00:29:32",
+      "end_index": 885,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:29:32",
+      "start_index": 885,
+      "end_time": "00:29:34",
+      "end_index": 886,
+      "offset": 885,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0886.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:29:34",
+      "start_index": 886,
+      "end_time": "00:29:42",
+      "end_index": 890,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:29:42",
+      "start_index": 890,
+      "end_time": "00:29:50",
+      "end_index": 894,
+      "offset": 892,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0893.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:29:50",
+      "start_index": 894,
+      "end_time": "00:29:52",
+      "end_index": 895,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:29:52",
+      "start_index": 895,
+      "end_time": "00:29:58",
+      "end_index": 898,
+      "offset": 896,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0897.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:29:58",
+      "start_index": 898,
+      "end_time": "00:30:08",
+      "end_index": 903,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:30:08",
+      "start_index": 903,
+      "end_time": "00:30:14",
+      "end_index": 906,
+      "offset": 904,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0905.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:30:14",
+      "start_index": 906,
+      "end_time": "00:30:24",
+      "end_index": 911,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:30:24",
+      "start_index": 911,
+      "end_time": "00:30:30",
+      "end_index": 914,
+      "offset": 912,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0913.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:30:30",
+      "start_index": 914,
+      "end_time": "00:31:08",
+      "end_index": 933,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:31:08",
+      "start_index": 933,
+      "end_time": "00:31:16",
+      "end_index": 937,
+      "offset": 935,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0936.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:31:16",
+      "start_index": 937,
+      "end_time": "00:32:04",
+      "end_index": 961,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:32:04",
+      "start_index": 961,
+      "end_time": "00:32:06",
+      "end_index": 962,
+      "offset": 961,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0962.png",
+      "title": "Viewing Teresa Lewis (Adobe's shared content 100%"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:32:06",
+      "start_index": 962,
+      "end_time": "00:32:26",
+      "end_index": 972,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:32:26",
+      "start_index": 972,
+      "end_time": "00:32:28",
+      "end_index": 973,
+      "offset": 972,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0973.png",
+      "title": "Viewing Teresa Lewis shared content 100%"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:32:28",
+      "start_index": 973,
+      "end_time": "00:32:34",
+      "end_index": 976,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:32:34",
+      "start_index": 976,
+      "end_time": "00:32:36",
+      "end_index": 977,
+      "offset": 976,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0977.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:32:36",
+      "start_index": 977,
+      "end_time": "00:32:38",
+      "end_index": 978,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:32:38",
+      "start_index": 978,
+      "end_time": "00:32:40",
+      "end_index": 979,
+      "offset": 978,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0979.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:32:40",
+      "start_index": 979,
+      "end_time": "00:32:50",
+      "end_index": 984,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:32:50",
+      "start_index": 984,
+      "end_time": "00:33:44",
+      "end_index": 1011,
+      "offset": 997,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-0998.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:33:44",
+      "start_index": 1011,
+      "end_time": "00:33:46",
+      "end_index": 1012,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:33:46",
+      "start_index": 1012,
+      "end_time": "00:34:36",
+      "end_index": 1037,
+      "offset": 1024,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1025.png",
+      "title": "Viewing Teresa Lewis shared content 100%"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:34:36",
+      "start_index": 1037,
+      "end_time": "00:34:38",
+      "end_index": 1038,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:34:38",
+      "start_index": 1038,
+      "end_time": "00:34:52",
+      "end_index": 1045,
+      "offset": 1041,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1042.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:34:52",
+      "start_index": 1045,
+      "end_time": "00:34:56",
+      "end_index": 1047,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:34:56",
+      "start_index": 1047,
+      "end_time": "00:35:04",
+      "end_index": 1051,
+      "offset": 1049,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1050.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:35:04",
+      "start_index": 1051,
+      "end_time": "00:35:06",
+      "end_index": 1052,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:35:06",
+      "start_index": 1052,
+      "end_time": "00:35:10",
+      "end_index": 1054,
+      "offset": 1053,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1054.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:35:10",
+      "start_index": 1054,
+      "end_time": "00:35:16",
+      "end_index": 1057,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:35:16",
+      "start_index": 1057,
+      "end_time": "00:35:18",
+      "end_index": 1058,
+      "offset": 1057,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1058.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:35:18",
+      "start_index": 1058,
+      "end_time": "00:35:32",
+      "end_index": 1065,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:35:32",
+      "start_index": 1065,
+      "end_time": "00:35:34",
+      "end_index": 1066,
+      "offset": 1065,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1066.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:35:34",
+      "start_index": 1066,
+      "end_time": "00:35:36",
+      "end_index": 1067,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:35:36",
+      "start_index": 1067,
+      "end_time": "00:35:40",
+      "end_index": 1069,
+      "offset": 1068,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1069.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:35:40",
+      "start_index": 1069,
+      "end_time": "00:35:44",
+      "end_index": 1071,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:35:44",
+      "start_index": 1071,
+      "end_time": "00:35:46",
+      "end_index": 1072,
+      "offset": 1071,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1072.png",
+      "title": "Viewing Teresa Lewis shared content"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:35:46",
+      "start_index": 1072,
+      "end_time": "00:36:00",
+      "end_index": 1079,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:36:00",
+      "start_index": 1079,
+      "end_time": "00:37:04",
+      "end_index": 1111,
+      "offset": 1095,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1096.png",
+      "title": "Dennis Personal Room Layout Meeting info"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:37:04",
+      "start_index": 1111,
+      "end_time": "00:39:22",
+      "end_index": 1180,
+      "offset": 1145,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1146.png",
+      "title": "Dennis Personal Room ) Meeting info"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:39:22",
+      "start_index": 1180,
+      "end_time": "00:46:24",
+      "end_index": 1391,
+      "offset": 1285,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1286.png",
+      "title": "@ (Glayout Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:46:24",
+      "start_index": 1391,
+      "end_time": "00:46:28",
+      "end_index": 1393,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:46:28",
+      "start_index": 1393,
+      "end_time": "00:46:36",
+      "end_index": 1397,
+      "offset": 1395,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1396.png",
+      "title": "@ (Glayout Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:46:36",
+      "start_index": 1397,
+      "end_time": "00:46:38",
+      "end_index": 1398,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:46:38",
+      "start_index": 1398,
+      "end_time": "00:46:44",
+      "end_index": 1401,
+      "offset": 1399,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1400.png",
+      "title": "Dennis Personal Room ) Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:46:44",
+      "start_index": 1401,
+      "end_time": "00:46:46",
+      "end_index": 1402,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:46:46",
+      "start_index": 1402,
+      "end_time": "00:46:48",
+      "end_index": 1403,
+      "offset": 1402,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1403.png",
+      "title": "@ (Glayout Chat Direct"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:46:48",
+      "start_index": 1403,
+      "end_time": "00:46:54",
+      "end_index": 1406,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:46:54",
+      "start_index": 1406,
+      "end_time": "00:46:58",
+      "end_index": 1408,
+      "offset": 1407,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1408.png",
+      "title": "Dennis Personal Room ) Meeting info Teresa Lewis shared Chat x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:46:58",
+      "start_index": 1408,
+      "end_time": "00:47:00",
+      "end_index": 1409,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:47:00",
+      "start_index": 1409,
+      "end_time": "00:47:06",
+      "end_index": 1412,
+      "offset": 1410,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1411.png",
+      "title": "Dennis Personal Room ) Meeting info Teresa Lewis shared Chat x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:47:06",
+      "start_index": 1412,
+      "end_time": "00:47:10",
+      "end_index": 1414,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:47:10",
+      "start_index": 1414,
+      "end_time": "00:47:12",
+      "end_index": 1415,
+      "offset": 1414,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1415.png",
+      "title": "Dennis Personal Room (G ) Meeting info Teresa Lewis shared Chat x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:47:12",
+      "start_index": 1415,
+      "end_time": "00:47:14",
+      "end_index": 1416,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:47:14",
+      "start_index": 1416,
+      "end_time": "00:47:24",
+      "end_index": 1421,
+      "offset": 1418,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1419.png",
+      "title": "Dennis Personal Room @ (Glayout Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:47:24",
+      "start_index": 1421,
+      "end_time": "00:47:26",
+      "end_index": 1422,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:47:26",
+      "start_index": 1422,
+      "end_time": "00:47:28",
+      "end_index": 1423,
+      "offset": 1422,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1423.png",
+      "title": "Dennis Personal Room ) Meeting info Viewing Teresa Lewis (Adobe)'s shared Chat x"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:47:28",
+      "start_index": 1423,
+      "end_time": "00:47:30",
+      "end_index": 1424,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:47:30",
+      "start_index": 1424,
+      "end_time": "00:53:00",
+      "end_index": 1589,
+      "offset": 1506,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1507.png",
+      "title": "Dennis Personal Room ) Meeting info Teresa Lewis (Adobe)'s shared 100% Chat x"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:53:00",
+      "start_index": 1589,
+      "end_time": "00:53:46",
+      "end_index": 1612,
+      "offset": 1600,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1601.png",
+      "title": "Dennis Itkin's Personal Room (G ) Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:53:46",
+      "start_index": 1612,
+      "end_time": "00:53:48",
+      "end_index": 1613,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:53:48",
+      "start_index": 1613,
+      "end_time": "00:54:10",
+      "end_index": 1624,
+      "offset": 1618,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1619.png",
+      "title": "Meeting info ) )"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:54:10",
+      "start_index": 1624,
+      "end_time": "00:54:18",
+      "end_index": 1628,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:54:18",
+      "start_index": 1628,
+      "end_time": "00:54:20",
+      "end_index": 1629,
+      "offset": 1628,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1629.png",
+      "title": "Meeting info Chat x Messages to everyone willbe saved \u00a9 meeting. You Unverified 4:32PM Which Analytics could be use to measurement? AA? Teresa Lewis (Ado..."
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:54:20",
+      "start_index": 1629,
+      "end_time": "00:55:16",
+      "end_index": 1657,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:55:16",
+      "start_index": 1657,
+      "end_time": "00:55:18",
+      "end_index": 1658,
+      "offset": 1657,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1658.png",
+      "title": "Dennis Itkin's Personal Room ) Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "00:55:18",
+      "start_index": 1658,
+      "end_time": "00:55:56",
+      "end_index": 1677,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:55:56",
+      "start_index": 1677,
+      "end_time": "00:55:58",
+      "end_index": 1678,
+      "offset": 1677,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1678.png",
+      "title": "Dennis Personal Room Meeting info"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:55:58",
+      "start_index": 1678,
+      "end_time": "00:59:52",
+      "end_index": 1795,
+      "offset": 1736,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1737.png",
+      "title": "Layout"
+    },
+    {
+      "type": "slide",
+      "start_time": "00:59:52",
+      "start_index": 1795,
+      "end_time": "01:02:16",
+      "end_index": 1867,
+      "offset": 1831,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1832.png",
+      "title": "Dennis Personal Room Meeting info"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:02:16",
+      "start_index": 1867,
+      "end_time": "01:02:26",
+      "end_index": 1872,
+      "offset": 1869,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1870.png",
+      "title": "Dennis Room Meeting info )"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:02:26",
+      "start_index": 1872,
+      "end_time": "01:06:20",
+      "end_index": 1989,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:06:20",
+      "start_index": 1989,
+      "end_time": "01:06:30",
+      "end_index": 1994,
+      "offset": 1991,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-1992.png",
+      "title": "Dennis Personal Room Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:06:30",
+      "start_index": 1994,
+      "end_time": "01:08:30",
+      "end_index": 2054,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:08:30",
+      "start_index": 2054,
+      "end_time": "01:08:40",
+      "end_index": 2059,
+      "offset": 2056,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2057.png",
+      "title": ") Meeting info Chat x Direct"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:08:40",
+      "start_index": 2059,
+      "end_time": "01:09:40",
+      "end_index": 2089,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:09:40",
+      "start_index": 2089,
+      "end_time": "01:09:50",
+      "end_index": 2094,
+      "offset": 2091,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2092.png",
+      "title": "Dennis Personal Room ) Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:09:50",
+      "start_index": 2094,
+      "end_time": "01:09:54",
+      "end_index": 2096,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    },
+    {
+      "type": "slide",
+      "start_time": "01:09:54",
+      "start_index": 2096,
+      "end_time": "01:09:56",
+      "end_index": 2097,
+      "offset": 2096,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2097.png",
+      "title": "Dennis Personal Room ) Meeting info"
+    },
+    {
+      "type": "speaker",
+      "start_time": "01:09:56",
+      "start_index": 2097,
+      "end_time": "01:10:04",
+      "end_index": 2101,
+      "offset": 2101,
+      "source": "/var/folders/d7/b_0hcbgj6hx3dl7cfjm6snqr0000gn/T/tmpy2r3ocuy/hi/thumb-2102.png"
+    }
+  ],
+  "crop": [
+    80,
+    0,
+    1440,
+    900
+  ]
+}
