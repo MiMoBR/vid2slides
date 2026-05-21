@@ -1,4 +1,4 @@
-# vid2slides slide extract from video to PDF or GIF
+# vid2slides slide extract from video to transform into PDF or GIF 
 
 `vid2slides` is a utility to extract slides from videos. It can extract slides taken from videos posted to YouTube, recorded from Zoom, Google Meet, etc. It integrates OCR functionality to recognize what's inside the slides. You can use it to:
 
